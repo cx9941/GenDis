@@ -1,0 +1,2313 @@
+text	label
+is my work alarm set for tomorrow	alarm_query
+tell me about the alarm timings	alarm_query
+what alarms have i set for tomorrow	alarm_query
+did i set my house alarm	alarm_query
+what alarms do i have set for today	alarm_query
+what alarms have been set for me	alarm_query
+do i have any alarms	alarm_query
+if there any alarm is set then let me know	alarm_query
+please tell me my alarms	alarm_query
+did I set an alarm to have tablets in the noon	alarm_query
+give me the alarm times for the next two days	alarm_query
+could you tell me about the alerts i have set	alarm_query
+please list active alarms	alarm_query
+what alarms did i set	alarm_query
+can you tell me if i have any alarms set	alarm_query
+what alarms are coming up	alarm_query
+let me see my alarms	alarm_query
+what time are my alarms set for	alarm_query
+what time will my alarm go off today	alarm_query
+how many alarms are listed	alarm_query
+is my reminder alarm set for dance class	alarm_query
+please tell me about upcoming alarms	alarm_query
+at what time is my alarm set	alarm_query
+check if alarm is set for six am	alarm_query
+do i have an alarm set for tomorrow	alarm_query
+check whether i have set any alarms for tomorrow morning	alarm_query
+what time will my alarm wake me up	alarm_query
+what time do i have my alarm set for tomorrow	alarm_query
+confirm my alarm settings	alarm_query
+when is the next alarm	alarm_query
+what alarms are set	alarm_query
+please let me know the morning alarm time kept for weekends	alarm_query
+list all of my upcoming alarms	alarm_query
+what time is my wakeup alarm set for	alarm_query
+please check alarms	alarm_query
+show me the alarms i set	alarm_query
+see see for me the alarms that you have set tomorrow morning	alarm_query
+tell me time of alarm you set	alarm_query
+do i have an alarm set for today	alarm_query
+may i know the about alarm you set	alarm_query
+show me all of my active alarms	alarm_query
+show me what alarm times i've set for the week	alarm_query
+i dont want any alarms	alarm_remove
+could you please remove the set of alarms between eight and nine	alarm_remove
+change my alarm	alarm_remove
+this alarm needs to be permanently silenced	alarm_remove
+disable my three pm alarm	alarm_remove
+cancel my three pm alarm	alarm_remove
+cancel my alarm for tomorrow morning	alarm_remove
+remove my eight pm alarm and set it to seven pm	alarm_remove
+remove number three alarm of list	alarm_remove
+turn off all alarms	alarm_remove
+get rid of my eight am alarm	alarm_remove
+turn off my first alarm	alarm_remove
+please delete my morning alarm	alarm_remove
+reset the alarm	alarm_remove
+remove the latest alarm	alarm_remove
+delete my alarm for eight am	alarm_remove
+cancel alarm for tomorrow	alarm_remove
+cancel the alarm that is set for tomorrow at eight am	alarm_remove
+please remove the alarm that is set for weekdays at nine	alarm_remove
+please remove any alarms that i have set	alarm_remove
+remove my bedtime alarm	alarm_remove
+remove six am alarm of whole week for future	alarm_remove
+snooze	alarm_remove
+stop wake up calls for this week	alarm_remove
+please cancel all alarms for tomorrow	alarm_remove
+turn off all of my alarms	alarm_remove
+please set my alarm clock for eight am	alarm_set
+set alarm for reminder	alarm_set
+add alarm	alarm_set
+set an alarm for this eight hundred pm this evening	alarm_set
+turn on my alarm	alarm_set
+set alarm at two am	alarm_set
+i need a six am wakeup call	alarm_set
+wake me up in thirty minutes	alarm_set
+please set an alarm for tomorrows meeting at seven am	alarm_set
+set an alarm for me for tomorrow at seven pm	alarm_set
+create an alarm for six am	alarm_set
+make a new alarm	alarm_set
+set alarm at ten am	alarm_set
+set the alarm for five am	alarm_set
+wake me at seven am	alarm_set
+set alarm at six thirty am	alarm_set
+set an alarm for ten o'clock tomorrow morning	alarm_set
+set a timer at five am seven days a week	alarm_set
+alert me at ten am please	alarm_set
+wake me up at four am	alarm_set
+create event with alarm for meeting in two hours	alarm_set
+make an alarm to help me remember	alarm_set
+can you set an alarm for seven am	alarm_set
+set alarm for twelve weeks from today at eight am	alarm_set
+set an alarm for me for tomorrow	alarm_set
+set the alarm to seven am for work	alarm_set
+turn my morning alarm on	alarm_set
+can you set my alarm for seven thirty am	alarm_set
+set an alarm at ten tomorrow to remind me a meeting	alarm_set
+set an alarm for two pm	alarm_set
+alert me at five hours	alarm_set
+alarm ten am	alarm_set
+i need an alarm	alarm_set
+set alarm at five am	alarm_set
+please set an alarm at six am	alarm_set
+set an alarm for seven am	alarm_set
+is my alarm set for seven am	alarm_set
+schedule an alarm for next weeks dentist appointment	alarm_set
+wake up time	alarm_set
+set my alarm for six am tomorrow	alarm_set
+wake me up at ten	alarm_set
+please make me wake up at four am tomorrow	alarm_set
+please wake me up at eight am	alarm_set
+decrease the volume to ten	audio_volume_down
+turn down the volume	audio_volume_down
+low the volume	audio_volume_down
+lower the speak volume	audio_volume_down
+turn off the bass from the audio	audio_volume_down
+I need the volume to be quieter	audio_volume_down
+down	audio_volume_down
+Turn down volume	audio_volume_down
+slow down the speaker volume	audio_volume_down
+please turn the volume down	audio_volume_down
+turn down volume twenty percent	audio_volume_down
+decrease volume	audio_volume_down
+please change the volume low of the speakers	audio_volume_down
+please slow down volume of speaker	audio_volume_down
+decrease twenty percent	audio_volume_down
+turn the volume down	audio_volume_down
+can you make it a little quieter	audio_volume_down
+i've got a meeting by tonight seven pm please mute the music for an hour	audio_volume_mute
+set to mute	audio_volume_mute
+get yourself muted	audio_volume_mute
+mute for the next hour please	audio_volume_mute
+silent	audio_volume_mute
+down the speaker volume at the end of level	audio_volume_mute
+mute the settings	audio_volume_mute
+mute for twenty minutes	audio_volume_mute
+silent mode on for the next three hours	audio_volume_mute
+mute for two hours	audio_volume_mute
+google please be extra quiet the baby is sleeping	audio_volume_mute
+mute enabled until i say so	audio_volume_mute
+help me to mute my speaker	audio_volume_mute
+it's quiet time	audio_volume_mute
+mute yourself until i say otherwise	audio_volume_mute
+set to silent for five minutes	audio_volume_mute
+quiet time	audio_volume_mute
+mute the speaker please	audio_volume_mute
+please unmute yourself	audio_volume_mute
+cut off noise	audio_volume_mute
+mute the sound	audio_volume_mute
+set volume to zero	audio_volume_mute
+i need to mute the speaker	audio_volume_mute
+turn off the sound	audio_volume_mute
+be quiet	audio_volume_mute
+mute the audio	audio_volume_mute
+please mute yourself	audio_volume_mute
+mute my speakers for a minute here i need to make a call	audio_volume_mute
+mute the living room speakers	audio_volume_mute
+quiet please	audio_volume_mute
+hey olly mute the speakers	audio_volume_mute
+mute please	audio_volume_mute
+can you mute my speaker	audio_volume_mute
+speakers off	audio_volume_mute
+olly turn the volume up	audio_volume_up
+increase volume please	audio_volume_up
+turn up	audio_volume_up
+increase volume	audio_volume_up
+increase the volume of the left speaker by ten	audio_volume_up
+increase the volume to fifty	audio_volume_up
+turn the volume up	audio_volume_up
+audio on	audio_volume_up
+Hey turn the volume high	audio_volume_up
+could you speak a little more softly	audio_volume_up
+adjust media volume up	audio_volume_up
+raise the volume of my music player by fifty percent	audio_volume_up
+i want the speakers turned up high	audio_volume_up
+up	audio_volume_up
+i can't hear you speak up	audio_volume_up
+please increase volume	audio_volume_up
+change the speaker volume to sixty five percent	audio_volume_up
+turn up speakers	audio_volume_up
+please turn up the volume to twenty one	audio_volume_up
+hello beef up the volume a little bit	audio_volume_up
+get louder	audio_volume_up
+please speak loud	audio_volume_up
+bring back talking after	audio_volume_up
+increase the volume please	audio_volume_up
+i am unable to hear you can you speak little loud	audio_volume_up
+speak as loud as you can	audio_volume_up
+i want volume on my speakers	audio_volume_up
+speak louder	audio_volume_up
+can you turn the volume up	audio_volume_up
+raise speaker volume	audio_volume_up
+open events this week	calendar_query
+shall we meet for today's party	calendar_query
+are there any events on my calendar for this week	calendar_query
+what are the pending reminder for today evening	calendar_query
+when is bank holiday	calendar_query
+is mary's birthday party tonight	calendar_query
+please tell me when's my financial meeting	calendar_query
+when is the next office meeting	calendar_query
+tell me about the meetings over a period of time	calendar_query
+my events	calendar_query
+what time is the evening meeting i have with john	calendar_query
+when is my doctor's appointment	calendar_query
+tell me if there are any events from three to five	calendar_query
+what events are going to happen in my city between two four pm today	calendar_query
+when and where is june's birthday party	calendar_query
+notify me about the meetings over a period of some days	calendar_query
+time time is the holiday party at the office	calendar_query
+whats my schedule today	calendar_query
+what is my schedule for june fourteenth two thousand and seventeen	calendar_query
+how soon is my anniversary	calendar_query
+show me my reminders	calendar_query
+which is the next event coming up	calendar_query
+march one is susan's birthday right	calendar_query
+tell me what is on my calendar for tomorrow	calendar_query
+please check my reminders	calendar_query
+is there any events planned for the next three months	calendar_query
+what day is the meeting on	calendar_query
+is it true that susan's birthday is on march first	calendar_query
+let's go through all pending reminders	calendar_query
+what are the upcoming reminders	calendar_query
+what is happening this weekend	calendar_query
+is there any program for tomorrow evening	calendar_query
+show me future events	calendar_query
+what is my schedule for tomorrow	calendar_query
+give me today's calendar events after six pm	calendar_query
+do i have a sales meeting today	calendar_query
+what do i have scheduled for next week	calendar_query
+what day is this event scheduled for	calendar_query
+where am i supposed to be by this time tomorrow	calendar_query
+am i available at five pm on sunday	calendar_query
+is my calendar free for Thursday	calendar_query
+what's coming up this week	calendar_query
+remove father's day from calendar	calendar_remove
+please cancel my next hair cut	calendar_remove
+remove all the events and schedules	calendar_remove
+is there a way to clear my calendar	calendar_remove
+cancel everything on my calendar	calendar_remove
+can you empty my calendar	calendar_remove
+i'm not doing thing this week	calendar_remove
+please delete all calendar events	calendar_remove
+remove meeting for wednesday morning	calendar_remove
+delete my next scheduled event please	calendar_remove
+delete all of my appointments with dr smith this week	calendar_remove
+delete everything on my calendar for the next two weeks	calendar_remove
+remove today's meeting at evening	calendar_remove
+reset all events in calendar	calendar_remove
+event remove	calendar_remove
+can you delete the not so important events	calendar_remove
+delete all scheduled events	calendar_remove
+hey olly on the twentieth clear my calendar	calendar_remove
+cancel my meeting tomorrow	calendar_remove
+i want you to remove this event	calendar_remove
+in my calendar delete all of my golf events for the current month	calendar_remove
+remove all events from my calendar	calendar_remove
+remove standup on Friday at ten am	calendar_remove
+erase my appointment for march seven	calendar_remove
+delete all my appointments for today	calendar_remove
+can to please clear my calendar of all events	calendar_remove
+no lunch date tomorrow	calendar_remove
+please clear jeff's birthday from the calendar	calendar_remove
+format data from calendar	calendar_remove
+remove the doctor's appointment i added to my calendar for february twelfth at nine am	calendar_remove
+dismiss my next event	calendar_remove
+remove the board meeting and reschedule for next wednesday	calendar_remove
+please clear out my calendar completely	calendar_remove
+get rid of the first three events in my calendar	calendar_remove
+can you please disregard the party that i will be going to this weekend on my calendar	calendar_remove
+i need to cancel my rsvp for dinner this evening can you remove it on my calendar as well	calendar_remove
+cancels lunch at the restaurant booked for march twenty five	calendar_remove
+find my next event and delete it please	calendar_remove
+cancel meeting at three	calendar_remove
+remove the fundraiser for dolphines in april	calendar_remove
+clear everything from the calendar	calendar_remove
+cancel all my appointments after three pm today and inform me the details	calendar_remove
+set reminder notification for three o'clock	calendar_set
+add my spin class to the calendar for Saturday at seven am	calendar_set
+set the event to recur on the first monday of the month	calendar_set
+set a reminder for my shopping trip tomorrow at five pm	calendar_set
+set a reminder for tomorrow evening	calendar_set
+schedule meeting with laura	calendar_set
+add lunch appointment with lisa to january second at twelve thirty pm	calendar_set
+can you remind me about my meeting tomorrow	calendar_set
+make a repeating reminder for my yoga practice every day at noon	calendar_set
+please remind me about the event later five pm	calendar_set
+write down meeting at seven pm	calendar_set
+remind me of my twelve oclock meeting by eleven thirty	calendar_set
+can you sync my calendar with mark	calendar_set
+i need to set up a meeting with the ceo tomorrow	calendar_set
+set event on recurring	calendar_set
+please set a reminder for church services on sundays for eleven am	calendar_set
+set meeting with joanna on Saturday four pm	calendar_set
+can you tell me on tuesday to give jane a call	calendar_set
+remind me on fifth march of every year to arrange wedding anniversary presents	calendar_set
+remind me about my biology test at fsu on friday	calendar_set
+plan a meeting in office with all employees tomorrow morning at eight	calendar_set
+add practice to calendar on feb four at king's park at two pm	calendar_set
+thirteenth june is a day of election result please set it	calendar_set
+set reminder for tomorrow for this item	calendar_set
+write down that i am going to meet with jenny on the third okay	calendar_set
+set a notification for june fifth every year	calendar_set
+hi please remind the next meeting with my boss it will be at eleven am next monday	calendar_set
+i have a meeting with sean at four pm on wednesday can you remind me	calendar_set
+please set reminder	calendar_set
+add to calendar an medical appointment for the first day of the next five months	calendar_set
+make a meeting with friend	calendar_set
+church with mom and dad on sunday	calendar_set
+add running to my calendar for thursday	calendar_set
+thursday at three pm there is a teachers meeting i need to be reminded of	calendar_set
+remind me if i miss my evening walk routine	calendar_set
+send me notice of meeting wednesday nine am	calendar_set
+activate a one week notification before my anniversary please	calendar_set
+don't let me forget tomorrow's meeting with sheila	calendar_set
+schedule lunch at tomo in arcata california tomorrow at noon	calendar_set
+remind me to take out the trash	calendar_set
+create a meeting event in my calendar	calendar_set
+on third april we will go to watch j llb movie set it	calendar_set
+how many cups of sugar in texas sheet cake frosting	cooking_recipe
+tell me how to make garlic bread	cooking_recipe
+what do you use to make cookies	cooking_recipe
+give me some recipes for sheperds pie	cooking_recipe
+cooking recipe	cooking_recipe
+find a recipe for homemade bread	cooking_recipe
+tell me how to cook pasta	cooking_recipe
+how do i deglaze a pan	cooking_recipe
+what ingredient can be used instead of saffron	cooking_recipe
+how to make cheesecake	cooking_recipe
+how do i braise a pork loin	cooking_recipe
+how to make fried rice	cooking_recipe
+how do i make meatloaf	cooking_recipe
+find easy recipe for corn bread	cooking_recipe
+cook me some oats	cooking_recipe
+evaporated	cooking_recipe
+healthy foods	cooking_recipe
+learn to cut potatoes correctly	cooking_recipe
+what is the temperature i am supposed to cook this lasagna at	cooking_recipe
+what does rice wine go with	cooking_recipe
+please look up best recipes	cooking_recipe
+what is the best tasting cut of beef	cooking_recipe
+find the recipe for sambar in cookingforu application	cooking_recipe
+search for the best spagetti recipe	cooking_recipe
+how long do i roast chicken breasts	cooking_recipe
+how many calories are in a one divided by of peanuts	cooking_recipe
+can you prepare a cheese sandwich	cooking_recipe
+how do you make sunny side up eggs	cooking_recipe
+find me the recipe for a cake	cooking_recipe
+tell me the preparation method for chicken sixty five	cooking_recipe
+what type of cheese do i need for my enchiladas	cooking_recipe
+search for gluten free menus	cooking_recipe
+how do you make cookies	cooking_recipe
+how long should i cook a hamburger on each side	cooking_recipe
+what is a cookie recipe	cooking_recipe
+give me a recipe for lasagne	cooking_recipe
+how do i make meal	cooking_recipe
+help me make brownies	cooking_recipe
+what does one have to damage in cream to make butter	cooking_recipe
+what is the recipe for apple pie	cooking_recipe
+what conducts heat better copper bottomed pots or cast iron	cooking_recipe
+bring up a recipe for turkey meatballs	cooking_recipe
+please change time zone to canada	datetime_convert
+now it's five thirty pm in india what about the time in ivory coast	datetime_convert
+eight am manila time is what in eastern time	datetime_convert
+time difference between uk and us	datetime_convert
+change my clock to central time zone from my current zone	datetime_convert
+convert g. m. t. to ist	datetime_convert
+when it's ten pm here what time is it in brisbane	datetime_convert
+can you change my time zone from central time to pacific	datetime_convert
+what time is twelve pm eastern time in pacific time	datetime_convert
+change the time in this location to ist	datetime_convert
+if it's five am in berlin what time is it here	datetime_convert
+if it is noon in virginia what time is it in california	datetime_convert
+eight am in manila is what in new york	datetime_convert
+if it's midnight in colorado what time is it in munich	datetime_convert
+can you please change the time zone to us	datetime_convert
+what is the time difference between india and ivory coast	datetime_convert
+change the time zone from washington to new york	datetime_convert
+what is the time difference between new york and lagos	datetime_convert
+please convert nine am cst to est time	datetime_convert
+do we have thirty first day on this month	datetime_query
+current time new york	datetime_query
+when is the third monday of this month	datetime_query
+which date is on next monday	datetime_query
+what is the time in ajmer	datetime_query
+report the current time in oakland	datetime_query
+please give me the time	datetime_query
+what is the day on twenty third march	datetime_query
+whats the date today	datetime_query
+what time is it in england	datetime_query
+what day of the week does the twenty second fall on this month	datetime_query
+what is the time in milwaukee	datetime_query
+show me what day the thirty first is on	datetime_query
+tell me the time in this time zone	datetime_query
+what time is it on the east coast of the united states	datetime_query
+what is the month day and year	datetime_query
+what is time now in california	datetime_query
+what is the time in china	datetime_query
+whats the time now	datetime_query
+give me the time in pst	datetime_query
+what day of the week does the next holiday fall on	datetime_query
+what time is it in the other time zones	datetime_query
+what time of day is it in london	datetime_query
+what is the date easter falls on	datetime_query
+be my clock	datetime_query
+today is which date	datetime_query
+show time in china	datetime_query
+current date please	datetime_query
+what date is easter sunday this year	datetime_query
+what is the time in bangalore	datetime_query
+what day of the week does christmas fall on this year	datetime_query
+what is mondays actual date	datetime_query
+what's the time for neighboring city	datetime_query
+august fifteenth is what day of the week	datetime_query
+display date	datetime_query
+how many days are in this month	datetime_query
+what is the current time in delhi	datetime_query
+what is the date for next tuesday	datetime_query
+can you tell me today's date	datetime_query
+is today march sixth	datetime_query
+is it Monday today	datetime_query
+what is the current central time	datetime_query
+add erosser@hotmail dot com as a new contact for emily rosser	email_addcontact
+save email id	email_addcontact
+Update my contacts with the new contact sam@gmail dot com	email_addcontact
+please add tom to my contact list	email_addcontact
+please add smurfette@gmail dot com to my email contacts	email_addcontact
+please add smithjoe@email dot com to the contact information for joe smith	email_addcontact
+make this email a new contact	email_addcontact
+please add contact email johndoe@yahoo dot com to john doe's contact information	email_addcontact
+send an email and save the contact information for samuelwaters@hotmail dot com	email_addcontact
+please add a new email in my contacts from sara	email_addcontact
+add the email oriam@gmail dot com to my contacts	email_addcontact
+please add this email to my contacts	email_addcontact
+i want to and my email address	email_addcontact
+add a new email	email_addcontact
+save this email in contact	email_addcontact
+i need to add this new contact for sam smith ssmith@yahoo dot com	email_addcontact
+add jpearsonjessica@gmail dot com to email contacts	email_addcontact
+just add a new email in my contacts from michael	email_addcontact
+create new contact	email_addcontact
+did paul email me recently	email_query
+give me recent emails	email_query
+has amy sent me any new emails	email_query
+tell me when i get new emails from principal lowry	email_query
+how is my inbox looking at the moment	email_query
+find new email	email_query
+check emails for last hour	email_query
+have i received any emails from my father	email_query
+what are the subject line and sender from today's email inbox	email_query
+please tell me how many emails i have	email_query
+display recent email from john	email_query
+list all emails with subject contract	email_query
+please check if there is a new email on the inbox	email_query
+do i have any new emails from my dad	email_query
+initiate polling for new email	email_query
+have i gotten any emails lately	email_query
+did i get an email from mike	email_query
+did i get an email from jen last night	email_query
+check inbox for mail from sarah	email_query
+do i have a new email from sandy	email_query
+what is the last email i received	email_query
+have i received any emails about jared's birthday	email_query
+please check if i got any emails from mom	email_query
+which new emails were received	email_query
+hey read any email to me	email_query
+what is the latest email from zita	email_query
+please check whether the email of jancy has come	email_query
+what did the clinic say about my exams	email_query
+can you please read the my mom sent this morning at ten am	email_query
+do i have email from my friend rachel	email_query
+look at my email	email_query
+are there any unread messages in my inbox	email_query
+read me new emails	email_query
+who was the last person to email me	email_query
+please check my gmail for new mail	email_query
+have i gotten any new emails from mary	email_query
+did i email tom on the subject of gun control	email_query
+has mike sent me an email	email_query
+tell me who send the email about the boss yesterday	email_query
+please check email from my boss	email_query
+check if there any new email	email_query
+what and who was i emailed about last week	email_query
+what's jesse's number	email_querycontact
+open the contact named john	email_querycontact
+give me the details of friend	email_querycontact
+is it anyone i knows birthday this month	email_querycontact
+what is jimmy johns's corporate number	email_querycontact
+search the contact	email_querycontact
+how can i contact this person	email_querycontact
+what's jesse's birthday	email_querycontact
+is bills cell phone number in my contacts	email_querycontact
+show me my contacts	email_querycontact
+what information do you have on file in my information about bill	email_querycontact
+tell contact mobile number	email_querycontact
+what is the home phone number of mark	email_querycontact
+tell me the contact details of my brother	email_querycontact
+display address of john	email_querycontact
+when is jacob's birthday	email_querycontact
+is there a contact named allen in my list	email_querycontact
+open the profile of allen from my contact	email_querycontact
+what's leon's email	email_querycontact
+tell me the office address of my brother	email_querycontact
+how old is mary s.	email_querycontact
+show me derek's contact information	email_querycontact
+what is tom's phone number	email_querycontact
+is this my sisters cellphone number	email_querycontact
+what's his number	email_querycontact
+how many numbers are saved for alex	email_querycontact
+can you provide me with the contact information assigned to this person	email_querycontact
+tell me the street address of my facebook friend george	email_querycontact
+can you give me details on john	email_querycontact
+do i have any missed call from patrick	email_querycontact
+check in contacts	email_querycontact
+how many contacts are there named john	email_querycontact
+tell me the email address for aunt ruth	email_querycontact
+what is the email address for tessa	email_querycontact
+how do i contact charles	email_querycontact
+what's rene phone number	email_querycontact
+can you tell me the contact information of jo	email_querycontact
+find me my dad's email address	email_querycontact
+will you look up joe's contact information for me	email_querycontact
+show contact of john	email_querycontact
+what is amber stevens address it is in my contacts	email_querycontact
+find me someone	email_querycontact
+send an email for me	email_sendemail
+reply the email of charles with just thank you right now	email_sendemail
+send an email to frank and ask them what the weather going to be like this week	email_sendemail
+send email to bill asking to reschedule	email_sendemail
+send happy new year to john@gmail dot com	email_sendemail
+add mail id subject content	email_sendemail
+inbox this mail	email_sendemail
+inbox my family	email_sendemail
+send an email to john	email_sendemail
+email my meeting details to my manager	email_sendemail
+send a reply to mike with the answer four hundred and thirty from his email he sent this morning	email_sendemail
+send the following email to bro hi come down for dinner tonight	email_sendemail
+please open a reply to the email	email_sendemail
+send email to family and tell them to bring the bug spray before coming to the park	email_sendemail
+send email new address	email_sendemail
+send email to mom asking about the weather	email_sendemail
+go to email compile	email_sendemail
+send an email to my assistant clara to cancel all appointments for tomorrow	email_sendemail
+reply wishes to john by email	email_sendemail
+send the email to john	email_sendemail
+i need an email to be sent to comcastcom about my service issues	email_sendemail
+you should reply to the mail	email_sendemail
+send an email to jesse	email_sendemail
+please send mom an email saying that i can make it next week	email_sendemail
+send an email to adele	email_sendemail
+can you open the reply inbox	email_sendemail
+send an email to bob	email_sendemail
+please email celine	email_sendemail
+send an email to my brother and say wedding anniversary	email_sendemail
+compose email	email_sendemail
+open a new email to contact	email_sendemail
+respond to graham and let him know that i will be free tomorrow	email_sendemail
+send email how are you dad to dad	email_sendemail
+my friend john has sent me a invitation card to his newly bought home say thanks to him in his mail id	email_sendemail
+start and email to john smith	email_sendemail
+will you send the email to greg	email_sendemail
+email dad how is the weather this week	email_sendemail
+pull up outlook i need to send a email	email_sendemail
+write an email recipient ray	email_sendemail
+send an email with the address you gave me to jean saying meet us here at eight pm	email_sendemail
+please answer jean's email	email_sendemail
+please send a voice mail to mr richard office about meting him on first of february twenty seventeen at five pm	email_sendemail
+get command exactly.	general_affirm
+yeah exactly.	general_affirm
+it was wonderful.	general_affirm
+yes you got command exactly.	general_affirm
+it's amazing.	general_affirm
+yeah strongly agree.	general_affirm
+the command was confirmed.	general_affirm
+you have got the answer exactly.	general_affirm
+yeap amazing response to the command.	general_affirm
+you understood the answer right.	general_affirm
+yes you get your understanding perfectly.	general_affirm
+yes fantastic response.	general_affirm
+yeah you have got my instructions right.	general_affirm
+yes you have got my instructions perfectly.	general_affirm
+yeah wonderful.	general_affirm
+yeah you have gotten my instructions perfectly.	general_affirm
+good response to the command.	general_affirm
+yes you've done command exactly.	general_affirm
+you've done the command right.	general_affirm
+yes great response to the command.	general_affirm
+yeap fantastic response.	general_affirm
+you've done your understanding correcly.	general_affirm
+you did it exactly.	general_affirm
+yes right.	general_affirm
+yeap that's right.	general_affirm
+you have understood my instructions perfectly.	general_affirm
+you have done that perfectly.	general_affirm
+yeah please.	general_affirm
+yeap right response.	general_affirm
+yes wonderful response.	general_affirm
+yeah that is correct.	general_affirm
+yes it's excellent.	general_affirm
+that is good.	general_affirm
+wonderful response to command.	general_affirm
+confirmed.	general_affirm
+yes it was perfect.	general_affirm
+fantastic response to command.	general_affirm
+that is right.	general_affirm
+yeap fantastic.	general_affirm
+you have got that exactly.	general_affirm
+yes you have done that exactly.	general_affirm
+yes strongly agree.	general_affirm
+olly will you please shut off.	general_commandstop
+would you stop.	general_commandstop
+shut up.	general_commandstop
+i would talk to you later on.	general_commandstop
+olly will you stop please.	general_commandstop
+please would you shut up.	general_commandstop
+please would you just cancel it.	general_commandstop
+olly i would like you stop.	general_commandstop
+olly please would you shut off.	general_commandstop
+will you just stop it please.	general_commandstop
+olly please just stop.	general_commandstop
+olly please would you shut down.	general_commandstop
+olly would you shut off.	general_commandstop
+will you shut down please.	general_commandstop
+i would talk to you later.	general_commandstop
+olly i want you cancel.	general_commandstop
+olly will you just stop it please.	general_commandstop
+could you please shut down.	general_commandstop
+i like you stop it.	general_commandstop
+olly will you stop.	general_commandstop
+can you shut up please.	general_commandstop
+would you shut off please.	general_commandstop
+i would like you just cancel.	general_commandstop
+would you please shut down.	general_commandstop
+please shut down.	general_commandstop
+olly can you shut up please.	general_commandstop
+olly can you shut off.	general_commandstop
+please shut off.	general_commandstop
+i want you just stop it.	general_commandstop
+olly i'd like you just cancel it.	general_commandstop
+will you please shut down.	general_commandstop
+i would like you cancel it.	general_commandstop
+can you please shut up.	general_commandstop
+olly please shut off.	general_commandstop
+olly will you shut up please.	general_commandstop
+would you shut down please.	general_commandstop
+can you check and confirm detail please.	general_confirm
+would you please check and confirm what i last said.	general_confirm
+please will you check it.	general_confirm
+would you check the details please.	general_confirm
+please can you confirm the question.	general_confirm
+did you get what i just said correctly?	general_confirm
+did you get it correctly?	general_confirm
+can you check my last question.	general_confirm
+could you please check and confirm my last command.	general_confirm
+check the last thing said please.	general_confirm
+did you get my last command correctly?	general_confirm
+did you get last thing said correctly?	general_confirm
+could you confirm what i just said please.	general_confirm
+i would like you to check and confirm my last command please.	general_confirm
+please can you confirm details.	general_confirm
+i want you to check what i just said please.	general_confirm
+could you please check that.	general_confirm
+please can you confirm last thing said.	general_confirm
+please confirm last thing said.	general_confirm
+please will you confirm the last thing said.	general_confirm
+can you confirm what said please.	general_confirm
+i like you check question please.	general_confirm
+will you check and confirm that please.	general_confirm
+could you check my last question.	general_confirm
+please could you confirm instruction.	general_confirm
+will you check and confirm instruction.	general_confirm
+would you confirm the question.	general_confirm
+i like you check and confirm last thing i said please.	general_confirm
+please will you check details.	general_confirm
+can you please check and confirm the detail.	general_confirm
+will you please check and confirm detail.	general_confirm
+can you please check what i last said.	general_confirm
+did you get the last thing i said correctly?	general_confirm
+check and confirm the detail please.	general_confirm
+can you please confirm detail.	general_confirm
+did you get the last thing said correctly?	general_confirm
+would you confirm last thing i said please.	general_confirm
+please can you confirm it.	general_confirm
+check last thing said please.	general_confirm
+i would like you to check the question please.	general_confirm
+please check what said.	general_confirm
+did you get the detail correctly?	general_confirm
+this is of no importance to me.	general_dontcare
+i do not mind for whatever.	general_dontcare
+i have no idea for which to choose.	general_dontcare
+i would not bother.	general_dontcare
+doesn't really matter with me.	general_dontcare
+i don't mind to select any one.	general_dontcare
+don't mind for whatever.	general_dontcare
+i do not care.	general_dontcare
+i do not really care.	general_dontcare
+does not really matter to me.	general_dontcare
+doesn't really matter for me.	general_dontcare
+wouldn't really care.	general_dontcare
+that is unimportant.	general_dontcare
+whatever would be ok to me.	general_dontcare
+anything is ok with me.	general_dontcare
+anything would be fine with me.	general_dontcare
+this is unimportant.	general_dontcare
+do not mind to choose any one.	general_dontcare
+have no idea regarding to what to do.	general_dontcare
+it doesn't matter to me.	general_dontcare
+i wouldn't really mind.	general_dontcare
+i don't really mind for whatever.	general_dontcare
+do not mind.	general_dontcare
+really i would not mind.	general_dontcare
+have no idea for what to choose.	general_dontcare
+that does not matter for me.	general_dontcare
+please further rephrase it.	general_explain
+i didn't get your response.	general_explain
+can you please clarify me more on your answers.	general_explain
+can you please further explain me about that.	general_explain
+i am not clear about last sentence.	general_explain
+couldn't understand what you just said now.	general_explain
+elaborate me further on your answer please.	general_explain
+i did not catch that.	general_explain
+please once again rephrase me about what you have said.	general_explain
+what you have said was not so clear.	general_explain
+i was not clear about your response.	general_explain
+i don't quite catch that.	general_explain
+would you again clarify me on it.	general_explain
+what do you mean.	general_explain
+further explain.	general_explain
+will you explain me about the last sentence further please.	general_explain
+your words was not so clear.	general_explain
+i am not clear about your answers.	general_explain
+your words is not so clear.	general_explain
+could you please further elaborate me about what you have just said.	general_explain
+can you please clarify once again.	general_explain
+could you elaborate further on your answers to me.	general_explain
+i don't understand what you just said now.	general_explain
+please rephrase more on what you have just said to me.	general_explain
+will you explain me more on what you just said please.	general_explain
+please rephrase me more on what you said now.	general_explain
+i was not so clear about your words.	general_explain
+explain further.	general_explain
+please will you clarify me more on that.	general_explain
+will you rephrase this again to me please.	general_explain
+have any jokes	general_joke
+the joke of the day	general_joke
+i wanna laugh can you make it happen	general_joke
+i want to hear a funny joke	general_joke
+search for new jokes	general_joke
+hey do you know any jokes	general_joke
+what's the famous monty python joke about the bird	general_joke
+a priest walks into a bar	general_joke
+look for a joke	general_joke
+joke me	general_joke
+do you know any joke	general_joke
+today's jokes	general_joke
+what about this joke	general_joke
+tell a joke	general_joke
+whats a good joke	general_joke
+make me laugh	general_joke
+i want to listen to a joke	general_joke
+funny story	general_joke
+tell me a joke about a man	general_joke
+tell me a joke about chickens	general_joke
+say some jokes	general_joke
+hey olly make me laugh with a good joke	general_joke
+tell me the funniest joke that was ever told	general_joke
+say a funny	general_joke
+can you tell me a joke	general_joke
+tell me something funny	general_joke
+thanks but i think you don't understand this correctly.	general_negate
+you told me the incorrect date please correct this.	general_negate
+sorry but you have messed up the command.	general_negate
+i think incorrect.	general_negate
+this was not what i am searching for.	general_negate
+i do not think that was correct.	general_negate
+i think you don't get answer right.	general_negate
+sorry but it is not correct.	general_negate
+that isn't what i meant.	general_negate
+the command was wrong.	general_negate
+incorrect command.	general_negate
+sorry but that is not the right answer.	general_negate
+that's not what i just said.	general_negate
+olly's command is incorrect.	general_negate
+that wasn't right.	general_negate
+thats not it please do it again.	general_negate
+it's not the correct command.	general_negate
+thanks but you didn't get me.	general_negate
+this is not the correct answer.	general_negate
+you have done task all wrong.	general_negate
+thanks but i think it's wrong response.	general_negate
+i think this is not correct command.	general_negate
+you have done the task wrong.	general_negate
+i am sorry but i think you're incorrect.	general_negate
+thanks but you have got it incorrect.	general_negate
+you have done a wrong thing.	general_negate
+ah that's nice one.	general_praise
+thank you so much for your helping.	general_praise
+thank you very much for that information.	general_praise
+thanks for your answers.	general_praise
+ah that is great one.	general_praise
+you've done it right thank you so much.	general_praise
+oh it's great job.	general_praise
+oh it's nice one.	general_praise
+dubai marriage	general_quirky
+opinion about latest gadgets	general_quirky
+find me a good wine shop that stock old wines like older than ten years navigate me to that shop	general_quirky
+hey today i was fired from my job	general_quirky
+what do you think i should have for breakfast	general_quirky
+i saw a bulldog today	general_quirky
+is the data prefers any problems in objects	general_quirky
+how would you tackle the following problem brush your teeth	general_quirky
+tell me more about that concert	general_quirky
+my day was so busy	general_quirky
+your salary	general_quirky
+please check this info on geographics for me	general_quirky
+i am happy	general_quirky
+what do you think was the best decade	general_quirky
+nightime	general_quirky
+what would be the a perfectly nutritionally balanced meal for dinner	general_quirky
+can you explain string theory to me	general_quirky
+dolores how was your day	general_quirky
+why does tom izzo look like a whiny bitch when his team plays	general_quirky
+i watched the best movie please reserve me a copy when it releases	general_quirky
+give me the most recent stuff you have angelina jolie	general_quirky
+what things can't you do	general_quirky
+i just want to know some information about you	general_quirky
+what do you do with my personal data	general_quirky
+how high is the quality of this stone	general_quirky
+can you tell me how to measure my shoe size	general_quirky
+today i had a lunch with my longtime sweetheart play me a nice song to the mood	general_quirky
+lets begin buddy	general_quirky
+i had a long hard day	general_quirky
+is there a groomer in town for cats only	general_quirky
+how much can i bleed before i die	general_quirky
+today i couldn't find my phone	general_quirky
+what's next	general_quirky
+i have a deadline on tuesday	general_quirky
+check the status of my power usage	general_quirky
+does mr t have a family	general_quirky
+who won the sports game last night	general_quirky
+can you lie	general_quirky
+can you be my best friend	general_quirky
+life	general_quirky
+what happened to charlie chaplin	general_quirky
+how about you	general_quirky
+can you repeat please.	general_repeat
+repeat that.	general_repeat
+replay please.	general_repeat
+tell me once more please.	general_repeat
+will you reset.	general_repeat
+please speak that one more again.	general_repeat
+will you replay what you have said please.	general_repeat
+i need to hear that sentence again.	general_repeat
+stop and start over.	general_repeat
+could you speak it one more again please.	general_repeat
+could you speak that once more.	general_repeat
+can you reset.	general_repeat
+i want to hear what i've just said again.	general_repeat
+can you say one more again.	general_repeat
+i need to hear that sentence said again.	general_repeat
+let's try what you have said again.	general_repeat
+could you tell me once again please.	general_repeat
+please would you reset.	general_repeat
+please tell me it one more again.	general_repeat
+i want to hear that again.	general_repeat
+let us do it again please.	general_repeat
+can you retry please.	general_repeat
+beg your pardon.	general_repeat
+let's try it again.	general_repeat
+could you tell me it once again.	general_repeat
+say again.	general_repeat
+say the last one said again please.	general_repeat
+tell me what you just said once again please.	general_repeat
+please would you speak one more again.	general_repeat
+please would you tell me one more time again.	general_repeat
+let's start over please.	general_repeat
+i would like to hear again.	general_repeat
+one more again please.	general_repeat
+could you tell me again please.	general_repeat
+please could you replay.	general_repeat
+could you tell me one more time please.	general_repeat
+sorry.	general_repeat
+will you say what you have just said once more please.	general_repeat
+retry the instruction spoke please.	general_repeat
+i'd like to hear what i have just said again.	general_repeat
+i would like to hear your last the procedure said again.	general_repeat
+could you tell me it once again please.	general_repeat
+enable cleaner robot	iot_cleaning
+switch on the roomba	iot_cleaning
+go near vacuum cleaner	iot_cleaning
+activate the vacuum	iot_cleaning
+start the robot vacuum cleaner	iot_cleaning
+switch on the vacuum cleaner	iot_cleaning
+start the vacuum	iot_cleaning
+start the vacuum at nine am	iot_cleaning
+initiate cleaning process	iot_cleaning
+start the robot vacuum cleaner at one pm today	iot_cleaning
+vacuum the living room in ten minutes	iot_cleaning
+run the robot vacuum cleaner	iot_cleaning
+make vacuum cleaner start	iot_cleaning
+run the vacuum cleaner	iot_cleaning
+start cleaning robot cleaner	iot_cleaning
+turn cleaner robot on	iot_cleaning
+get the roomba to clean up	iot_cleaning
+begin vacuum cleaning	iot_cleaning
+vacuum on	iot_cleaning
+hoover the carpets around	iot_cleaning
+turn the robot vacuum cleaner on	iot_cleaning
+will you have the vacuum start cleaning	iot_cleaning
+power up the vacuum	iot_cleaning
+put on the vacuum on now and clean the living room	iot_cleaning
+how do i start the robot vacuum cleaner	iot_cleaning
+start the robot vacuum cleaner now	iot_cleaning
+activate robot vacuum	iot_cleaning
+at one pm today start the robot vacuum cleaner	iot_cleaning
+begin vacuum	iot_cleaning
+hoover the hallway	iot_cleaning
+have the vacuum cleaner clean the room	iot_cleaning
+please activate my vacuum cleaner	iot_cleaning
+please set the vacuum to start going now	iot_cleaning
+have the roomba run the living room	iot_cleaning
+start house cleanup	iot_cleaning
+turn on the roomba	iot_cleaning
+please help serve me coffee with a no sugar	iot_coffee
+please make coffee	iot_coffee
+prepare coffee	iot_coffee
+start the coffee machine at three	iot_coffee
+i need coffee	iot_coffee
+start coffee at six am	iot_coffee
+please make coffee at seven am	iot_coffee
+please turn on my coffee pot	iot_coffee
+start the coffee machine	iot_coffee
+please make some coffee for me	iot_coffee
+coffee make now	iot_coffee
+can i have cup of coffee	iot_coffee
+coffee	iot_coffee
+i need a drink	iot_coffee
+i would like to have a cup of coffee	iot_coffee
+can you make me a cup of coffee	iot_coffee
+get me a coffee	iot_coffee
+make me some coffee from the coffee machine	iot_coffee
+instruct the coffee maker to make a filter coffee ready in ten minutes	iot_coffee
+yo i need a coffee now	iot_coffee
+put on a pot of coffee	iot_coffee
+please make me nice coffee	iot_coffee
+start making a coffee	iot_coffee
+i want some coffee	iot_coffee
+can you please make a coffee	iot_coffee
+make coffee	iot_coffee
+a cup of coffee please	iot_coffee
+activate coffee machine	iot_coffee
+can you start the coffee machine for me	iot_coffee
+make me a capuccino	iot_coffee
+get coffee maker started for a fresh cup	iot_coffee
+run coffee maker	iot_coffee
+cook some coffees	iot_coffee
+make me happy juice	iot_coffee
+make me a cooled coffee	iot_coffee
+please make ke a coffee	iot_coffee
+i would like some coffee now	iot_coffee
+can you boil the kettle	iot_coffee
+i'd like a cup of coffee please	iot_coffee
+brew me some coffee	iot_coffee
+brew coffee	iot_coffee
+make me coffee now	iot_coffee
+make the living room light orange	iot_hue_lightchange
+make the lights pink	iot_hue_lightchange
+can you change the light colors into dark in the house	iot_hue_lightchange
+change the opacity of the color	iot_hue_lightchange
+show me the available colours of lights	iot_hue_lightchange
+can you change the light colors in the house	iot_hue_lightchange
+light green	iot_hue_lightchange
+change your colors to something different	iot_hue_lightchange
+change the color of the lights to blue	iot_hue_lightchange
+make light color red	iot_hue_lightchange
+make the living room blue	iot_hue_lightchange
+alter the color of the lights at home	iot_hue_lightchange
+change my room lights so that i can get a good sleep	iot_hue_lightchange
+change the light color to black light	iot_hue_lightchange
+change lights to pink	iot_hue_lightchange
+can you do me a favor my eyes are feeling strained on these lights can you please change it to a cooler tone	iot_hue_lightchange
+change light colors	iot_hue_lightchange
+White	iot_hue_lightchange
+make the lights in my home yellow	iot_hue_lightchange
+hey olly my the lights a little warmer	iot_hue_lightchange
+change the color of the lights in my house from white to yellow	iot_hue_lightchange
+make the room blue	iot_hue_lightchange
+change the light color to white	iot_hue_lightchange
+can i change this light to orange	iot_hue_lightchange
+can you make a red shade of light in the living room	iot_hue_lightchange
+adjust the light option	iot_hue_lightchange
+make all the lights in the house orange	iot_hue_lightchange
+hey make the house lights a different color	iot_hue_lightchange
+please change color of light to pinkish	iot_hue_lightchange
+change the colours please	iot_hue_lightchange
+it will be good if you yellowish the light	iot_hue_lightchange
+turn my lights to some random color	iot_hue_lightchange
+turn lights blue	iot_hue_lightchange
+turn the lights blue	iot_hue_lightchange
+change the color of my porch lights to green	iot_hue_lightchange
+change the color of the light	iot_hue_lightchange
+change color	iot_hue_lightchange
+please change light color to purple	iot_hue_lightchange
+change light color to blue	iot_hue_lightchange
+transition lights to blue to green to yellow	iot_hue_lightchange
+i need to change my house lights colour to blue	iot_hue_lightchange
+please change the color of the light in the bathroom	iot_hue_lightchange
+dim the lights down a bit	iot_hue_lightdim
+can you lower the lights	iot_hue_lightdim
+lower lights in kitchen	iot_hue_lightdim
+light is too much	iot_hue_lightdim
+i want dimmer lights	iot_hue_lightdim
+dim the lights in the bathroom	iot_hue_lightdim
+dim the lights a bit	iot_hue_lightdim
+lower the lights in the house please	iot_hue_lightdim
+reduce light intensity	iot_hue_lightdim
+is it ok to lower the lights	iot_hue_lightdim
+lower the lights in bedroom two	iot_hue_lightdim
+attenuate the lights	iot_hue_lightdim
+lower the lights please	iot_hue_lightdim
+dim all interior lights	iot_hue_lightdim
+the lights are too bright	iot_hue_lightdim
+bed room two darken	iot_hue_lightdim
+turn down the lights in the living room	iot_hue_lightdim
+lower lights	iot_hue_lightdim
+please turn down the lights to fifty percent in the den	iot_hue_lightdim
+i need to turn the lights down	iot_hue_lightdim
+darken the room a bit	iot_hue_lightdim
+reduce brightness	iot_hue_lightdim
+dim the lights at the living room	iot_hue_lightdim
+lower the brightness of the lights	iot_hue_lightdim
+can we please lower the lights	iot_hue_lightdim
+i want the room to be less bright	iot_hue_lightdim
+lights down to seven	iot_hue_lightdim
+switch off the master's bedroom	iot_hue_lightoff
+turn the lights off now	iot_hue_lightoff
+turn the living room's light off	iot_hue_lightoff
+shut off the lights in the kitchen	iot_hue_lightoff
+did i leave the light on in the garage	iot_hue_lightoff
+please turn the lights off	iot_hue_lightoff
+switch off kitchen lights	iot_hue_lightoff
+turn off room lights	iot_hue_lightoff
+turn off kitchen light	iot_hue_lightoff
+turn lights in the room off	iot_hue_lightoff
+turn off lights of kitchen	iot_hue_lightoff
+turn off the light in the bathroom	iot_hue_lightoff
+turn all the lights off	iot_hue_lightoff
+light off	iot_hue_lightoff
+can you turn my bathroom lights off	iot_hue_lightoff
+turn off lights	iot_hue_lightoff
+turn off the light in the kitchen	iot_hue_lightoff
+turn off bedroom lights in ten seconds	iot_hue_lightoff
+turn off the office lights	iot_hue_lightoff
+please turn off the lights in this room	iot_hue_lightoff
+please turn bedroom lights off	iot_hue_lightoff
+switch off the light	iot_hue_lightoff
+turn lights off in living room	iot_hue_lightoff
+please turn off right side of light	iot_hue_lightoff
+all lights has to be turned off during the day	iot_hue_lightoff
+can you turn off one of my lights in my bathroom	iot_hue_lightoff
+turn off the lamps	iot_hue_lightoff
+turns my son's room lights off	iot_hue_lightoff
+turn off the bathroom light	iot_hue_lightoff
+turn off the light	iot_hue_lightoff
+hey turn off the light please	iot_hue_lightoff
+bedroom light off	iot_hue_lightoff
+please turn off the light	iot_hue_lightoff
+switch off the lights	iot_hue_lightoff
+turn off the lights in this room please	iot_hue_lightoff
+please shut the lights	iot_hue_lightoff
+shut off the lights	iot_hue_lightoff
+can you please switch off the lights	iot_hue_lightoff
+please turn off kitchen light for me	iot_hue_lightoff
+please turn off the lights	iot_hue_lightoff
+assistant please turn the lights off	iot_hue_lightoff
+i dont need light	iot_hue_lightoff
+and the darkness has fallen	iot_hue_lighton
+turn on the lights	iot_hue_lighton
+turn on the lamp	iot_hue_lighton
+lights out	iot_hue_lighton
+turn all lights on	iot_hue_lighton
+It's too dark in here	iot_hue_lighton
+switch on all the lights	iot_hue_lighton
+turn the lights on full bright	iot_hue_lighton
+increase the intensity of the lighting in the room	iot_hue_lightup
+can you raise the lights for me please	iot_hue_lightup
+retrieve the light for me	iot_hue_lightup
+increase the brightness of the lights	iot_hue_lightup
+more bright	iot_hue_lightup
+make the light more visible	iot_hue_lightup
+increase the bright of the light	iot_hue_lightup
+i need some more lights	iot_hue_lightup
+make it brighter in here	iot_hue_lightup
+olly brighten the lights	iot_hue_lightup
+brighten of lights in living room	iot_hue_lightup
+can you turn up the lights	iot_hue_lightup
+turn out the lights	iot_hue_lightup
+can you increase the brightness in the room	iot_hue_lightup
+increase lights please	iot_hue_lightup
+more light	iot_hue_lightup
+please turn the lights up	iot_hue_lightup
+a little brighter thanks	iot_hue_lightup
+increase the brightness of lights bedroom	iot_hue_lightup
+can you adjust the lighting for me to be brighter	iot_hue_lightup
+please set the brightness of lightness appropriately in kitchen	iot_hue_lightup
+please brighten the room	iot_hue_lightup
+light up	iot_hue_lightup
+raise lights	iot_hue_lightup
+change up the light colors at home	iot_hue_lightup
+connect to lights	iot_hue_lightup
+can you make the room brighter	iot_hue_lightup
+i want to bright the room more	iot_hue_lightup
+make the lights brighter	iot_hue_lightup
+brighten the lights in this room	iot_hue_lightup
+turn off wemo plug in game room	iot_wemo_off
+off mobile charger plug	iot_wemo_off
+deactive the socket	iot_wemo_off
+turn off the smart plug	iot_wemo_off
+turn off sockets	iot_wemo_off
+please turn off the smart plug socket	iot_wemo_off
+turn off the rice cooker socket	iot_wemo_off
+turn off the fan	iot_wemo_off
+turn off bedroom fan	iot_wemo_off
+switch off the plug socket	iot_wemo_off
+turn the plug off	iot_wemo_off
+i want the smart socket off now	iot_wemo_off
+socket off	iot_wemo_off
+please turn off the wemo plug	iot_wemo_off
+i'd like you to shut off my smart plug socket now please	iot_wemo_off
+turn off the tv in	iot_wemo_off
+smart plug socket off please	iot_wemo_off
+keep the socket in off condition	iot_wemo_off
+turn off the wemo socket in the kitchen	iot_wemo_off
+switch off the smart plug socket now	iot_wemo_off
+turn wemo plug socket off	iot_wemo_off
+i want the wemo socket off	iot_wemo_off
+start the smart plug	iot_wemo_on
+turn on the plug	iot_wemo_on
+turn the smart plug on	iot_wemo_on
+turn on the smart plug	iot_wemo_on
+turn wemo on	iot_wemo_on
+make the wemo go on	iot_wemo_on
+start new smart socket	iot_wemo_on
+turn on the geyser	iot_wemo_on
+turn on the wemo plug	iot_wemo_on
+power yourself on	iot_wemo_on
+turn on the smart charger	iot_wemo_on
+turn on when plugged in else turn off	iot_wemo_on
+make the wemo plug socket turned on	iot_wemo_on
+power up the plug socket one	iot_wemo_on
+activate the wemo plug socket	iot_wemo_on
+make the socket available for me	iot_wemo_on
+turn on the wemo plug socket to connect my charger to it	iot_wemo_on
+make a new list of dog breeds	lists_createoradd
+add eggs to the list	lists_createoradd
+new list please	lists_createoradd
+new scenario time or calendar to new list	lists_createoradd
+add the post office to my list of errands for Saturday	lists_createoradd
+can you create a new list	lists_createoradd
+add these documents to the things i need to travel with	lists_createoradd
+add paper towels to the grocery list	lists_createoradd
+create packing checklist	lists_createoradd
+produce a new register	lists_createoradd
+add new item to list	lists_createoradd
+include this	lists_createoradd
+add broccoli to my grocery list	lists_createoradd
+add grocery to list	lists_createoradd
+show a new list	lists_createoradd
+Add pick up kids from school to my to do list for today	lists_createoradd
+please update my grocery list with one gallon of two percent milk	lists_createoradd
+i need to put together a todo list for work	lists_createoradd
+start a list of dog names	lists_createoradd
+make a grocery list please	lists_createoradd
+add the item to the list	lists_createoradd
+hey i need you to make a list of cricket players of indian team who played for the international team in two thousand and fourteen	lists_createoradd
+make a list about selena gomez concert schedule	lists_createoradd
+add coffee to the grocery list	lists_createoradd
+add wash jeans to laundry list	lists_createoradd
+can you add cups to my grocery list	lists_createoradd
+add a new list	lists_createoradd
+set list	lists_createoradd
+add item	lists_createoradd
+add new item	lists_createoradd
+add pencil to school supplies list	lists_createoradd
+update my list with shoes	lists_createoradd
+add spent five dollars in my expenses list	lists_createoradd
+add butter to the list	lists_createoradd
+make new list	lists_createoradd
+create a blank list	lists_createoradd
+create list	lists_createoradd
+select the item	lists_createoradd
+please create a new list	lists_createoradd
+create a list of books to be ordered	lists_createoradd
+please add new item to list	lists_createoradd
+add chives to my shopping list	lists_createoradd
+please show me the list that i have	lists_query
+tell me my list names	lists_query
+show the list that are available with numbers	lists_query
+evaluate today's schedule	lists_query
+what do i need to pick up at the grocery store	lists_query
+read that list back to me please	lists_query
+read list for me please	lists_query
+check out my to do list	lists_query
+arrange the list in alphabetical order that are available	lists_query
+read available lists	lists_query
+what list do i have	lists_query
+what to do lists do i have	lists_query
+whats on my list for the time being	lists_query
+open my list	lists_query
+count the number of food items on the list	lists_query
+anything else left on the list	lists_query
+groceries list	lists_query
+what is on this list	lists_query
+what are the current lists i have	lists_query
+open the list	lists_query
+what's on my todo list	lists_query
+can you find my lists	lists_query
+the list contain what	lists_query
+please show me lists	lists_query
+check my list	lists_query
+tell me items that are on my shopping list	lists_query
+what are the names of the lists that i have created	lists_query
+list things on my list	lists_query
+can i have my list	lists_query
+did i make a shopping list	lists_query
+read out the list	lists_query
+my party list	lists_query
+what are all my lists please	lists_query
+how many lists do i have	lists_query
+list to do	lists_query
+what is available in your stock of lists	lists_query
+can you please tell me what i have on my list	lists_query
+can you tell me what list i have	lists_query
+what is that on the list	lists_query
+what kind of lists do i have saved	lists_query
+what is on my shopping list	lists_query
+what's on my list to do today	lists_query
+remove my list of contacts from work	lists_remove
+remove milk from my grocery list	lists_remove
+please delete the list	lists_remove
+take off this list	lists_remove
+please remove this item from the list	lists_remove
+remove the santana music list	lists_remove
+remove this list from the others	lists_remove
+abolish an item from list	lists_remove
+please clean my shopping list	lists_remove
+remove grocery list	lists_remove
+i don't need tesco item any more delete it	lists_remove
+delete item four	lists_remove
+delete everything on the menu	lists_remove
+remove my to do list	lists_remove
+i don't need the shopping list delete it	lists_remove
+please remove the grocery list from my set of lists	lists_remove
+delete my shopping list	lists_remove
+delete my list	lists_remove
+i need you to remove item s from my list	lists_remove
+erase previous list	lists_remove
+delete bread from shopping list	lists_remove
+remove the guest list i created last week	lists_remove
+delete shopping from my list	lists_remove
+delete this from list	lists_remove
+move buying eggs item to trash from to do list	lists_remove
+find my shopping list and delete it	lists_remove
+delete the grocery list	lists_remove
+please remove the first list	lists_remove
+remove the list of person starting from letter m in my contact list	lists_remove
+remove cereal from my shopping list	lists_remove
+remove night night playlist	lists_remove
+please remove a list	lists_remove
+delete the dog list for me	lists_remove
+take milk off my grocery list	lists_remove
+delete the last line	lists_remove
+delete call newspaper from my vacation list	lists_remove
+delete the list created yesterday	lists_remove
+find apple on list and remove	lists_remove
+get rid of peas	lists_remove
+remove apples from my shopping list	lists_remove
+get rid of tax list from nineteen ninety	lists_remove
+remove the second row from the list	lists_remove
+this is my favorite song	music_likeness
+i love kfi so much he's by far my favorite	music_likeness
+how about you save this music	music_likeness
+add that song to my top ten favorites list	music_likeness
+i want the music to be saved can you do it for me	music_likeness
+please save this song	music_likeness
+save this music to my favorites	music_likeness
+i really ska music	music_likeness
+i'm really enjoying this song	music_likeness
+find lyrics of this song and save it it is very nice song	music_likeness
+nice lyrics	music_likeness
+add song to running list	music_likeness
+i like a song sing by arijit singh	music_likeness
+the song touches my heart	music_likeness
+record the opinion of each individual about this song	music_likeness
+what a wonderful song can you save what i just said for me	music_likeness
+thumbs up this song	music_likeness
+i really enjoy rock and roll	music_likeness
+i enjoy music	music_likeness
+i love hip hop	music_likeness
+that's a good song	music_likeness
+i love to rock out with my sock out	music_likeness
+i like the songs of yeshudas please play it	music_likeness
+current song rating three stars	music_likeness
+my favorite music is rock from the early two thousands	music_likeness
+the song makes me remember certain memories	music_likeness
+my all time favorite song is something like this from chainsmokers	music_likeness
+i like electronic music	music_likeness
+i like rock music	music_likeness
+i like top forty music	music_likeness
+rate five	music_likeness
+please record what i have said about this song	music_likeness
+i like r n b	music_likeness
+this song is too good	music_likeness
+i like alt rock music	music_likeness
+this is the best band ever	music_likeness
+i like it	music_likeness
+download and save song of dangal movie	music_likeness
+add this song to my music	music_likeness
+what's my favorite music at the moment	music_query
+was this song in the top twenty	music_query
+what song is playing on windows media player	music_query
+what song am i listening to	music_query
+what is the title of the song	music_query
+what is the list about my favorite songs	music_query
+who's that song by	music_query
+song info	music_query
+find me the name of the artist of this music	music_query
+what is the name of that song that just went off	music_query
+is there any rap that doesn't involve sex money and drugs	music_query
+who wrote the song i just wanna dance with you	music_query
+what music is playing	music_query
+what artist is singing that song	music_query
+who sings the song that i am listening to right now	music_query
+name the singer	music_query
+who sings this song	music_query
+who is the singer of song	music_query
+which film the music comes from what is the name of the music	music_query
+tell me a play list	music_query
+which song is currently playing	music_query
+what music is it	music_query
+what would you call this kind of music that we're listening to	music_query
+what is name of the song currently playing	music_query
+what is the name of the singer	music_query
+what is the name of this song playing right now	music_query
+who's playing the oboe on this piece	music_query
+show me the picture of the singer	music_query
+tell me the song that is currently playing	music_query
+who is the song writer	music_query
+What's playing	music_query
+who is the music director of this song	music_query
+check the current playing music title	music_query
+explanation of the song	music_query
+is that the song from spectre	music_query
+when was the song playing now released	music_query
+show me the name of the song playing right now	music_query
+other songs by this artist	music_query
+what is my most played song	music_query
+hotel california is sung by whom	music_query
+what type of music do i enjoy	music_query
+what song is currently playing	music_query
+please set the equalizer in the party mode	music_settings
+turn off shuffle	music_settings
+could you please create a pandora channel for adele	music_settings
+please don't shuffle songs in music player just playing continuously	music_settings
+repeat music	music_settings
+put the playlist on shuffle	music_settings
+shazam this music	music_settings
+please lower the shuffle rate of hips don't lie	music_settings
+please put this playlist on shuffle	music_settings
+please add this song to work out playlist	music_settings
+repeat album	music_settings
+olly skip song	music_settings
+please use shuffle	music_settings
+olly skip two songs	music_settings
+turn shuffle on music player on	music_settings
+shuffle the songs in the music library	music_settings
+repeat jazz	music_settings
+entertainment news	news_query
+what are the results of the election	news_query
+give me the headlines from sky news	news_query
+what are the top stories on cnn	news_query
+get me the latest news of world	news_query
+please let me know about topic elections	news_query
+political news of importance for the day	news_query
+what's the latest news about us election	news_query
+are there any status updates on cnn news facebook page	news_query
+what and how is india's economy at the moment	news_query
+update me on the standing rock protest	news_query
+could you please find me the latest news from a source that i do not usually go to	news_query
+show me rediff masala	news_query
+what happened last week	news_query
+find new trump articles but not from fox news	news_query
+i want to know the latest local news of the city	news_query
+is india win today cricket match	news_query
+what's happening with the hurricane in the gulf	news_query
+cnn	news_query
+show latest news about migration	news_query
+provide wall street journal news	news_query
+celeb news	news_query
+let me know the latest weather news	news_query
+please tell me the news	news_query
+current news cnn	news_query
+what's happening around the world	news_query
+automobiles	news_query
+top news	news_query
+give me the winning numbers to the powerball lottery	news_query
+is there any new news on trump	news_query
+show current news from bbc	news_query
+i want the news about academy awards	news_query
+get news from bbc	news_query
+newest world news	news_query
+can you tell me a latest news	news_query
+latest updates	news_query
+is anything different today about blank	news_query
+what is new	news_query
+how are things in the world	news_query
+let me know if anything happens on that subject	news_query
+please keep tabs on how the presidential debates are going	news_query
+how about the latest news	news_query
+play the circle	play_audiobook
+play from this point from this audiobook	play_audiobook
+play the jungle book	play_audiobook
+base on my audiobook collection get me recommendation related audio book i should listen get and play me the resume	play_audiobook
+resume harry potter from the place i have stopped listening to last time	play_audiobook
+keep reading	play_audiobook
+find me an audio book version of ready player one and play it for me	play_audiobook
+open book	play_audiobook
+start chapter seven of alma	play_audiobook
+please play back some important points summary	play_audiobook
+audio start	play_audiobook
+resume the two towers audiobook	play_audiobook
+can you play my latest audio book	play_audiobook
+start reading fifty shades of grey from chapter four	play_audiobook
+i want to hear more audiobook	play_audiobook
+i would like to continue my audiobook	play_audiobook
+continue playing my book of vitamins	play_audiobook
+start reading that alan partridge book	play_audiobook
+open harrypotter audiobook and play from last played	play_audiobook
+start chapter five of physics for future presidents	play_audiobook
+lets have a break for five minutes	play_audiobook
+resume the last kingdom for me	play_audiobook
+play next episode of harry potter by j. k. rowling	play_audiobook
+resume inkheart	play_audiobook
+please continue reading audiobook	play_audiobook
+look for this playback in audiobook and play for me	play_audiobook
+start my audio book from where i left off	play_audiobook
+play magic run after thirty min	play_audiobook
+can you play file	play_audiobook
+can you play my favorite audio book of king kong	play_audiobook
+play this audiobook	play_audiobook
+resume play of american gods	play_audiobook
+play audiobook snow white	play_audiobook
+play audiobook where we left off	play_audiobook
+continue playing where I left off	play_audiobook
+keep playing secret garden	play_audiobook
+play the two towers	play_audiobook
+please play this playback on audiobook	play_audiobook
+pick up wuthering heights where we left off	play_audiobook
+resume mind reading book	play_audiobook
+resume the playback of a child called it	play_audiobook
+open the books and play brains book from chap nine	play_audiobook
+we should play nfs at high speed	play_game
+can you find animal crossing	play_game
+bring up papa pear saga	play_game
+do you want to play	play_game
+open fishdom game	play_game
+let's play a game together	play_game
+play a game of contra as a second player	play_game
+please play trivial pursuit with me	play_game
+start words with friends	play_game
+start play fifa seventeen	play_game
+we are going to play poker together	play_game
+play uno together	play_game
+i would like to play tetris	play_game
+let's play a game of chess	play_game
+play subway surfers with me	play_game
+can you play monopoly with me	play_game
+start a competitive crossword for us	play_game
+anyone for tennis	play_game
+would you like to play a game	play_game
+Lets play tic tac toe	play_game
+how about a nice game of chess	play_game
+shall we play a game	play_game
+open parcheese game for you and i	play_game
+start spider	play_game
+play the latest games	play_game
+can you play a game with me	play_game
+start angry bird	play_game
+please open snooker game i would like to play with you	play_game
+play tennis for me	play_game
+let's play our favourite football match on tv	play_game
+play poker with me	play_game
+play papa pear saga	play_game
+angry bird play	play_game
+i want to play blackjack	play_game
+play cricket	play_game
+turn on flappy bird	play_game
+do you want to play monopoly with me	play_game
+lets go nazi hunting	play_game
+i want to play a game with you	play_game
+open saga	play_game
+lets play battleship	play_game
+play solitaire	play_game
+start play	play_music
+play maroon five playlist	play_music
+let me hear some music	play_music
+open spotify and play list five	play_music
+try to play old nineties classic music	play_music
+play be warned by tech n9ne	play_music
+play music by taylor swift	play_music
+i want to hear tum hi ho next	play_music
+can you play rfi	play_music
+please play the song joy to the world	play_music
+play purple haze	play_music
+i'd love to hear any song that i've given five stars by serge gainsbourg	play_music
+can you play my favorite music	play_music
+play new rihanna song	play_music
+play all third day	play_music
+play r and b	play_music
+hey play crazy by britney spears	play_music
+queue up ymca	play_music
+open jazz	play_music
+google find and play florida georgia line the one with nelly	play_music
+put classic rock on	play_music
+start music	play_music
+play songs by adele	play_music
+play closer music track	play_music
+time to workout	play_music
+play melody songs	play_music
+play song aces high	play_music
+i want to hear radio head please	play_music
+hey play the songs from my playlist named good tunes	play_music
+play my favorite music	play_music
+let me hear some bluegrass music	play_music
+play jazz from jennifer's latest album	play_music
+play song over the rainbow	play_music
+play neil sedaka	play_music
+play for me the music by madonna	play_music
+i want to hear surfin usa	play_music
+start playing my song list	play_music
+play chopin	play_music
+please play help	play_music
+play tonic	play_music
+play the bjork album i've heard the least	play_music
+pull up my party playlist	play_music
+go back to the last episode in this podcast	play_podcasts
+go to favourite list	play_podcasts
+play the latest seahawks podcast	play_podcasts
+please start my podcast	play_podcasts
+please play james altucher's podcast	play_podcasts
+continue onto the next podcast	play_podcasts
+skip this one	play_podcasts
+play most recent podcast upload	play_podcasts
+skip this episode	play_podcasts
+get the next episode	play_podcasts
+play the next episode of drunks and dragons please	play_podcasts
+find me a podcast on wrestling	play_podcasts
+show me the previous episode	play_podcasts
+skip forward	play_podcasts
+i want to see the next podcast available	play_podcasts
+can you pull up the dave ramsey podcast that aired on monday	play_podcasts
+next podcast	play_podcasts
+play current episode	play_podcasts
+back one episode	play_podcasts
+next episode in podcast	play_podcasts
+play favorites listed in podcasts starting with first one	play_podcasts
+play the next episode of this series	play_podcasts
+next episode please	play_podcasts
+show me the top rated podcasts	play_podcasts
+play me the new podcast from npr	play_podcasts
+plays the podcast from the beginning	play_podcasts
+play a podcast about latest yoga videos	play_podcasts
+play podcast for the philadelphia eagles content	play_podcasts
+play my play list	play_podcasts
+play my latest podcast	play_podcasts
+can i see the previous episode	play_podcasts
+play episode ten in the podcast	play_podcasts
+play the most current episode of levin	play_podcasts
+play this podcast	play_podcasts
+jump to next podcast	play_podcasts
+rewind the episode of podcast	play_podcasts
+go to the next episode in this podcast	play_podcasts
+play the next episode of the BBC tech podcast	play_podcasts
+play the next episode of radiolab	play_podcasts
+open podcast player	play_podcasts
+play the next episode of a podcast	play_podcasts
+will you please play a podcast	play_podcasts
+play billybob show on bbc radio four	play_radio
+i want to listen to the bob and tom show	play_radio
+play football news from radio one	play_radio
+scan the radio for howard stern	play_radio
+can you turn msnbc on in the car	play_radio
+broadcast the health show from the kitchen	play_radio
+can you start fm eight hundred and ninety radio channel	play_radio
+open fm	play_radio
+play an fm	play_radio
+let's have the radio on	play_radio
+could you please play the fm station which plays pop songs	play_radio
+can you play acoustic music with no commercials	play_radio
+please find the radio station currently playing howard stern	play_radio
+play the radio	play_radio
+show me upcoming programmes on one hundred and five point one	play_radio
+play the local r. n. b. radio station	play_radio
+start playing fm ninety six point five when it is one pm	play_radio
+hey olly turn the radio on	play_radio
+can you turn on pandora	play_radio
+please open my fm radio and play nine hundred and eighty seven	play_radio
+eight hundred and eighty nine fm please	play_radio
+please turn on radio on seven am	play_radio
+play new radio channel	play_radio
+play bbc radio one	play_radio
+play me news radio channel	play_radio
+please turn on the sean hannity show on am	play_radio
+i'd like to listen to ninety nine point five	play_radio
+channel seventy two point five	play_radio
+play the radio station rock one hundred and eight	play_radio
+i want to listen to one oh one point one the whiz	play_radio
+play any country music station	play_radio
+play npr through my living room stereo	play_radio
+play the bob and tom show	play_radio
+turn program on xmtune	play_radio
+i want you to go to hot one hundred and five on the radio	play_radio
+find radio	play_radio
+start radio play	play_radio
+play all the programs pertaining to rock songs on the radio	play_radio
+play yesterday's hot ninety seven morning show	play_radio
+start bbc radio	play_radio
+would you please turn on the am radio	play_radio
+turn on one oh seven point five	play_radio
+what is the exchange rate for dollars to pounds	qa_currency
+give me the exchange rate between united states dollar and indian rupee	qa_currency
+give me the exchange rate between united states dollar and japanese yen	qa_currency
+convert one euros to us dollars	qa_currency
+what's the exchange rate between the us dollar and the euro	qa_currency
+how much is the us dollar worth in canada	qa_currency
+how much is a g. b. p. in u. s. d.	qa_currency
+money exchange	qa_currency
+tell me the current dollar ratio for the us and canada	qa_currency
+how many dollars can i get for one yen	qa_currency
+tell me the exchange rate of ten dollar to euro	qa_currency
+what is the exchange rate for pounds and u. s. d.	qa_currency
+show me the exchange rate between czk and dollar	qa_currency
+how many euro in u. s. d.	qa_currency
+current currency rate	qa_currency
+tell me the exchange rate for the yen	qa_currency
+give me the exchange rate for dollar in euros	qa_currency
+what is a peso worth in dollars	qa_currency
+please give me detail one dollars equals rs	qa_currency
+exchange rates of inr and u. s. d.	qa_currency
+what is the exchange rate between the us dollar and the aus dollar	qa_currency
+what is the dollar exchange rate	qa_currency
+how many bots are in a dollar	qa_currency
+what is the exchange rate between u. s. d. and cad	qa_currency
+exchange u. s. d. to g. b. p.	qa_currency
+currency exchange	qa_currency
+Show me popular exchange rates	qa_currency
+what is the exchange rate of rupee for dollar	qa_currency
+how many pounds would i get for dollars	qa_currency
+what is the exchange rate between us dollars and bitcoin	qa_currency
+could you please tell me what is the rate for pound to u. s. d.	qa_currency
+how does the dollar compare to the pound	qa_currency
+how much australian dollars one can buy for one pound sterling	qa_currency
+exchange rate for converting ten dollar to euro	qa_currency
+how much is the dollar worth compared to the euro	qa_currency
+is the exchange rate changed from yesterday	qa_currency
+what is the exchange rate between money i'm the united states and switzerland	qa_currency
+how much is twenty two usd in euros	qa_currency
+what is the exchange between dollar and british pound	qa_currency
+what's the rate between pesos and yen	qa_currency
+show exchange rate of u. s. d. and inr	qa_currency
+what's the value of the euro relative to nzd	qa_currency
+give me the specs on the bugatti veyron	qa_definition
+define loquaciousness	qa_definition
+what does settle mean	qa_definition
+what does h2o stand for	qa_definition
+what does pda mean	qa_definition
+tell me about it	qa_definition
+describe the statue of liberty	qa_definition
+what are the definitions of orange	qa_definition
+please describe an elephant to me	qa_definition
+what's the meaning of rumplestiltskin	qa_definition
+what does speaker mean	qa_definition
+blanket definition	qa_definition
+how is a typhoon defined	qa_definition
+look up the definition to ambulance	qa_definition
+what an umbrella means	qa_definition
+what does a baguette look like	qa_definition
+what does snafu mean	qa_definition
+pontificate definition	qa_definition
+what is telekenesis	qa_definition
+what does a soccer ball look like	qa_definition
+what does happy mean	qa_definition
+the definition of life	qa_definition
+where can i use this word	qa_definition
+please define forensic	qa_definition
+what does pro bono mean	qa_definition
+what does joke mean	qa_definition
+what does triumph mean	qa_definition
+what is a chair	qa_definition
+define the word novel	qa_definition
+i would like to know the meaning of word	qa_definition
+can you describe to me what a pineapple looks like	qa_definition
+what does session mean	qa_definition
+look up the word snafu	qa_definition
+what is hurricane	qa_definition
+what do you know about the statue of liberty	qa_definition
+what does the word hypocrisy mean	qa_definition
+define love without invoking the term love	qa_definition
+describe the computer to me	qa_definition
+look up the meaning of logic	qa_definition
+describe texture	qa_definition
+what is a banana	qa_definition
+siri what is the definition of ziggurat	qa_definition
+please search for dining tables	qa_definition
+how tall is frank goggins	qa_factoid
+where is los angeles	qa_factoid
+how many mega pixel is listed in the description of the canon	qa_factoid
+how old is kim kardashian	qa_factoid
+how is iron made	qa_factoid
+where do most celebrities hang out	qa_factoid
+how old is tom hanks	qa_factoid
+how old was elvis when he died	qa_factoid
+what is hair made up of	qa_factoid
+longest river in the world	qa_factoid
+find twitter handle of tom cruise	qa_factoid
+who was in the beatles	qa_factoid
+how many species of bees are there in the united states	qa_factoid
+where is yellowstone park	qa_factoid
+what is the length of amazon river	qa_factoid
+what was the first car made	qa_factoid
+what is the temperature in indianapolis indiana	qa_factoid
+what is the geographic info of a pop singer rahman	qa_factoid
+where is morocco located	qa_factoid
+where was marlon brando born	qa_factoid
+how tall is roraima mount	qa_factoid
+how much of the earth is made up of water	qa_factoid
+does pink have a new baby	qa_factoid
+how many countries are in europe	qa_factoid
+is the largest ocean in the world the pacific	qa_factoid
+how high is pikes peak	qa_factoid
+where is russia located	qa_factoid
+name the capital of nigeria	qa_factoid
+just let me know the population of india	qa_factoid
+tell me when will indians economy touch that of americas	qa_factoid
+what johncena do	qa_factoid
+calculate a close integral of exponential function from zero to five	qa_factoid
+how many kilograms is two hundred and ten pounds	qa_factoid
+tell me about donald trump	qa_factoid
+where is the statue of liberty located	qa_factoid
+show various plants in earth	qa_factoid
+when did mount saint helens last erupt	qa_factoid
+how is the spouse of obama	qa_factoid
+which are well reviewed movies by emma watson	qa_factoid
+for how many years was abraham lincoln president of united states	qa_factoid
+how far is france from miami	qa_factoid
+what is the age of britney spears	qa_factoid
+what's the answer to one plus one	qa_maths
+what is twenty percent of one hundred and fifty	qa_maths
+what is ten divided by five	qa_maths
+what is the factorial of x	qa_maths
+what is the result of one hundred minus fifty	qa_maths
+tell me if five hundred and forty is subtracted seven time by twenty eight	qa_maths
+how do i subtract four from two	qa_maths
+what is two hundred divided by ten	qa_maths
+tell me the answer for two plus two	qa_maths
+what is ten times ten	qa_maths
+tell me what one plus one is	qa_maths
+what is one hundred and twenty three times one hundred and twenty three	qa_maths
+if i have fifty dollars and spend twenty four how many dollars will i have left	qa_maths
+resolve this thirty twelve	qa_maths
+i need to figure out this percentage	qa_maths
+what is two times two	qa_maths
+what is eighty seven minus fourteen	qa_maths
+divide two hundred by four	qa_maths
+what is the sum of 9 and 12	qa_maths
+what is the answer to this math question	qa_maths
+can you do nine plus two	qa_maths
+show me the answer for this problem two hundred and forty six plus six hundred and fifty four	qa_maths
+what do you get when you multiply sixteen by nine	qa_maths
+do you know how to answer this math question	qa_maths
+what is four plus four	qa_maths
+tell me sum of five and six	qa_maths
+two by two is	qa_maths
+what is twenty four times six	qa_maths
+what is twelve divided by four	qa_maths
+one plus two equal	qa_maths
+find me square root of forty nine	qa_maths
+what is the answer to two times three	qa_maths
+please add one plus one	qa_maths
+show stock of goog	qa_stock
+what is the sensex and nifty points for today	qa_stock
+stock price for gss energy	qa_stock
+compare the stock prices for nintendo and sony and tell me which ones are better	qa_stock
+what is the stock price of hdfc	qa_stock
+what is amazon worth	qa_stock
+what is the current stock price of rolls royce	qa_stock
+what is the daily price of johnson and johnson stock	qa_stock
+whats the stock price of apple	qa_stock
+what are the chances of the stock market closing below the two hundred moving average in the next fourteen days	qa_stock
+tell me summary forecast microsoft stock forecast to thirty days ahead	qa_stock
+show me the stock price for google	qa_stock
+please tell me when i can become rich if i invested in dow stocks today and what will be the return after five years	qa_stock
+what is the stock value of google	qa_stock
+what is i. b. m.'s stock worth	qa_stock
+what is now stock price of tata	qa_stock
+whats the dow jones at today	qa_stock
+what is apple's stock price	qa_stock
+what is the stock price of amazon	qa_stock
+what's the price of ge right now	qa_stock
+give me the stock price of intel	qa_stock
+what are the stock prices	qa_stock
+how much would it cost to buy a share of target	qa_stock
+what is the price of stock for gm	qa_stock
+did the price of walmart stock go up or down	qa_stock
+check stock prices on this	qa_stock
+when does iphone stock usually drop	qa_stock
+stock prices of rolls royce	qa_stock
+what is the price of apple stock today	qa_stock
+did apple stocks go up or down	qa_stock
+what are the current stock prices for google	qa_stock
+what is apple's current stock price	qa_stock
+how much is amazon stock	qa_stock
+amazon stock price	qa_stock
+could you give me the exact rate for dow nifty futures	qa_stock
+how are the top ten stocks at the moment	qa_stock
+what is the google stock at	qa_stock
+show me the stock prices of target today	qa_stock
+how effective will be to buy nike stock	qa_stock
+how much was airtel sold for sometime back	qa_stock
+what was the stock price for google yesterday	qa_stock
+give me the opening stock price of apple	qa_stock
+what events are happening today	recommendation_events
+tell me about activities in my area this weekend	recommendation_events
+please check on the rock concerts scheduled this weekend	recommendation_events
+what's some upcoming events i might want to go to	recommendation_events
+show me upcoming events in chicago	recommendation_events
+what is playing at the local theater right now	recommendation_events
+what's happening around me	recommendation_events
+any cultural events in california	recommendation_events
+what do they have going on for festivals downtown	recommendation_events
+show me events in sacramento	recommendation_events
+badminton	recommendation_events
+could you suggest some fun in new york	recommendation_events
+what's going on around here this weekend	recommendation_events
+are there any fun things to do in seattle this weekend	recommendation_events
+do i need to undertake any particular activity during my stay at the yellowstone national park	recommendation_events
+is there any events are in the local area	recommendation_events
+is there anything special going on nearby	recommendation_events
+any free events in la today	recommendation_events
+today's local events	recommendation_events
+which book fair events are taking place next week in washington dc	recommendation_events
+Show current local events	recommendation_events
+what baseball games are scheduled for this week in tulsa	recommendation_events
+this weekend what events are going on in seattle	recommendation_events
+is there any event around	recommendation_events
+what's happening in my town	recommendation_events
+events today	recommendation_events
+tell me all local events	recommendation_events
+what can i do in berlin	recommendation_events
+what do they have going on at young circle this week	recommendation_events
+i want to know what are happening now in me area	recommendation_events
+what is happening in the area	recommendation_events
+are there any interesting events around this area	recommendation_events
+list local ongoing exhibitions	recommendation_events
+can you find me a street fair in the neighborhood	recommendation_events
+tell me all the current events in my hometown	recommendation_events
+what events are coming up	recommendation_events
+what are some local events	recommendation_events
+any festivals in town at this time or in the coming week	recommendation_events
+what is going on in me area today	recommendation_events
+what should i do this weekend	recommendation_events
+are there any events going on nearby	recommendation_events
+whats happening in ny	recommendation_events
+is there a well rated pizza place between fourteenth and eighteenth streets	recommendation_locations
+i'm looking for some dress shows can you find clothing stores within one mile	recommendation_locations
+i want to find some chinese food what is near me	recommendation_locations
+i need a place that will deliver pizza to me in benton ar	recommendation_locations
+locate local pizza shops	recommendation_locations
+what is the best hardware store near me	recommendation_locations
+where's the best and most affordable place to stay in san diego	recommendation_locations
+where is the closest restaurant	recommendation_locations
+whats the best place to eat near here	recommendation_locations
+please look up local restaurants that are open now	recommendation_locations
+what's the best pizza shop nearby	recommendation_locations
+where can i go shopping in this area	recommendation_locations
+i want to know the best super market in this local area	recommendation_locations
+tell me a nice chinese restaurant	recommendation_locations
+where can i shop around here	recommendation_locations
+recommend me a restaurant in west chester	recommendation_locations
+where is a good place to eat in seattle	recommendation_locations
+local shops	recommendation_locations
+find me the oldest hotel in washington dc	recommendation_locations
+show me some food court nearest to my location	recommendation_locations
+list all the nearby shops	recommendation_locations
+locate me the amazon restaurants	recommendation_locations
+find shoe shopping near my home	recommendation_locations
+what clothes store would you recommend here	recommendation_locations
+what's the most popular curry place in town	recommendation_locations
+i want to take karate classes where are local karate studios	recommendation_locations
+where is the nearest smoke shop	recommendation_locations
+best restaurant in local area	recommendation_locations
+i'm looking for a bar do you know a good one	recommendation_locations
+recommend pub in eighth and monte diablo	recommendation_locations
+show me all the shops that i can find in milan	recommendation_locations
+where can i get organic wheat	recommendation_locations
+give me all ice cream shops within two miles	recommendation_locations
+please list shops within one miles from me	recommendation_locations
+is there a sports bar near kansas city plaza area	recommendation_locations
+where is the best pizza on sixth street	recommendation_locations
+where is the closest kroger	recommendation_locations
+where do people shop for clothes here	recommendation_locations
+show me reviews of my nearest location food court	recommendation_locations
+wine shop	recommendation_locations
+show me some vegan restaurants close by	recommendation_locations
+show me thai food near me	recommendation_locations
+what should i watch today	recommendation_movies
+is logan a good movie to watch	recommendation_movies
+should i watch this movie	recommendation_movies
+what is the best movie to watch this weekend	recommendation_movies
+inform me about the most popular rom com movie playing now in theatres across new york	recommendation_movies
+what time will a movie be shown tomorrow	recommendation_movies
+what film should i watch	recommendation_movies
+tell me the movie with best imdb ratings going on in theatres near me	recommendation_movies
+are there any good movies running in nearby theaters	recommendation_movies
+kung fu panda three	recommendation_movies
+suggest a good genre movie that came out recently	recommendation_movies
+what movies are playing near me	recommendation_movies
+what movie should i go see	recommendation_movies
+play a movie i'll like	recommendation_movies
+show me theatre where pirates of caribbean is playing	recommendation_movies
+what's playing in the roosendaal cinema	recommendation_movies
+what do you suggest that i watch this weekend	recommendation_movies
+when is trolls playing	recommendation_movies
+what movies are showing in cinema today	recommendation_movies
+what are new drama movies opening this weekend	recommendation_movies
+show me movie times	recommendation_movies
+what's playing at brea plaza five	recommendation_movies
+what movies is out there in the local cinema	recommendation_movies
+which rom com movie can i watch in theatres around new york	recommendation_movies
+send a tweet	social_post
+tweet my current location	social_post
+let wendy's know i hate them	social_post
+tweet my complaint and mention this costumer service	social_post
+i want to tweet a complaint on apples phone issues	social_post
+tweet to the customer service account of starbucks	social_post
+fraud in weighing products	social_post
+tweet complaint to sony consumer service	social_post
+post a complaint via twitter to cvs pharmacy	social_post
+tweet real donald trump that angela merkel will not shake his hand anymore	social_post
+please post so bored to facebook	social_post
+tweet complaint to consumer service	social_post
+send a tweet to tmobile for rude employees	social_post
+tell comcast i am still on hold	social_post
+tweet consumer service that the goods are of low quality	social_post
+open gallery post video name	social_post
+post to twitter got a hectic day ahead	social_post
+place family phone on instagram	social_post
+send a snotty tweet to bbc	social_post
+tweet to consumer service that they should strive to be more accommodating	social_post
+write a tweet to this company	social_post
+post to facebook I'm home	social_post
+tweet british airways that my last flight from chicago to london was delayed	social_post
+post a new status on facebook saying that i am enjoying the nice weather	social_post
+open hershey twitter	social_post
+send a tweet to esurance to say i hate you	social_post
+post the following status to facebook	social_post
+tweet bad day at starbucks	social_post
+tweet I'm complaining about to consumer service	social_post
+please send a complaint about my horrible experience with a company	social_post
+send twitter to mattel that they need to stop making toys in china	social_post
+post new status	social_post
+tweet my complaint to @consumer service	social_post
+tweet error log to samsung	social_post
+please submit status to facebook	social_post
+change my status to chillin	social_post
+bring up a complaint form	social_post
+send a tweet to kroger about being overcharged for groceries	social_post
+tweet @wendys that i don't like their product	social_post
+tweet freedom pop customer service i am dissatisfied	social_post
+tweet my complaint on targets customer service	social_post
+post to facebook at the spa yay with a smiley face emoticon	social_post
+send a complaint to my boss	social_post
+has anyone follow me today on twitter today	social_query
+give me details of my twitter handle profile including the total number of followers	social_query
+do i have any new tweets	social_query
+open facebook messenger	social_query
+what did jeff post on the yard sale page	social_query
+social media	social_query
+show me the posts of my friends in the last hour	social_query
+brief me about my news feed stories	social_query
+get me latest updates from facebook	social_query
+show me my latest social media activity	social_query
+what are trending topics on twitter right now	social_query
+what notifications do i have in social media	social_query
+is trump tweeting today	social_query
+can anyone tell me what's you guys discussing	social_query
+what's hot social media topics	social_query
+read me new post on my feed	social_query
+i haven't checked my facebook yet are there any updates from my close friends	social_query
+any new interests from linda	social_query
+who has written to me or mentioned me in social media	social_query
+how many likes i have got on my eggless cake post on youtube	social_query
+is everyone on my facebook list watching the game	social_query
+what's new on facebook	social_query
+give me my social media update	social_query
+are there any interesting stuff happened today in my twitter	social_query
+what new posts are on my page	social_query
+is there any new vegan news on facebook	social_query
+please inform me of any new status updates	social_query
+tell me what's new	social_query
+who recently posted on social media	social_query
+please check the news on social media	social_query
+hows twitter	social_query
+show me my husbands facebook posts today	social_query
+do i have any private messages on any social media	social_query
+who's birthdays are today on facebook	social_query
+is there anything new on snapchat	social_query
+what was the last thing my mom said	social_query
+please give me the latest feed updates	social_query
+please check the trending topics on twitter	social_query
+is there anything exciting on twitter today	social_query
+did renee just post to my facebook feed	social_query
+place order of one pizza	takeaway_order
+order me a large ham and olive pizza from dominos	takeaway_order
+i am really craving for chinese food right now please let me order take out	takeaway_order
+how about some pizza tonight can you please order a pepperoni large	takeaway_order
+order a takeaway	takeaway_order
+find me the nearest chinese for delivery	takeaway_order
+open grubhub	takeaway_order
+checkout top restaurant near me and order shahi panner	takeaway_order
+order takeout	takeaway_order
+find and order handi paneer in pavitra	takeaway_order
+give me options for indian carryout under dollars	takeaway_order
+i want to order some chinese food tonight what's delivering to me	takeaway_order
+order the best priced general tofu in nyack	takeaway_order
+show me nearby takeout restaurants	takeaway_order
+schedule a delivery from food at the nearby takeaway diner	takeaway_order
+order a pizza from pizza express	takeaway_order
+grubhub order	takeaway_order
+call the nearest pizza place that offers buffalo pizza	takeaway_order
+please order me some takeout	takeaway_order
+order from dominos	takeaway_order
+call pizza hut and order a large pan pizza with ham and mushrooms	takeaway_order
+call pf chang's to order me egg foo young	takeaway_order
+call for takeout	takeaway_order
+order mcdonalds	takeaway_order
+please call the golden fork and tell them to deliver one portion of the fish risotto	takeaway_order
+order a large pan pizza with ham and mushrooms from pizza hut	takeaway_order
+contact pizza hut and order a large pizza with ham and mushrooms	takeaway_order
+order two hamburgers for me	takeaway_order
+when i get home can you please order a pizza	takeaway_order
+i want to order a takeaway from papa john's	takeaway_order
+call domino's pizza	takeaway_order
+i want to eat two pita gyros please and some diet coke	takeaway_order
+order one pizza from pizza hut	takeaway_order
+pull up peking garden online	takeaway_order
+please put in an order from red thai fpr this evening	takeaway_order
+order spaghetti from spaghetti warehouse to bring home	takeaway_order
+order a large plain pizza from mimo's for me	takeaway_order
+hey order a side of hot wings with my previous order	takeaway_order
+what mexican restaurants are there nearby for takeout	takeaway_order
+search for pizza nearby	takeaway_order
+find hotel order food name	takeaway_order
+what are the offers in uber eats	takeaway_order
+tell me all the takeaways nearby and i want to order food	takeaway_query
+can i get the food to go	takeaway_query
+is my order ready	takeaway_query
+can they do delivery	takeaway_query
+when is taco bell going to arrive	takeaway_query
+how long until my takeaway	takeaway_query
+most rated delivery options for chinese food	takeaway_query
+where is my food	takeaway_query
+please could you tell me if george's geek restaurant can i order takeaway from there	takeaway_query
+i want some curry to go any recommendations	takeaway_query
+remember i've ordered a cake for tonight's birthday party let me know the status please	takeaway_query
+reviews of the restaurants	takeaway_query
+where is my pizza from domino's at	takeaway_query
+find my food	takeaway_query
+when is my food going to be here	takeaway_query
+when is my order ready	takeaway_query
+hello i would like to know whether you provide home delivery services	takeaway_query
+please check if paradise does takeaway	takeaway_query
+check on the delivery of my current order	takeaway_query
+do they have takeout	takeaway_query
+does the restaurant have delivery	takeaway_query
+does pizza hut have my order ready	takeaway_query
+is mr pizza on skip the dishes	takeaway_query
+can i pick up my large order at pizza hut	takeaway_query
+hi there do you offer home delivery for orders	takeaway_query
+what is the status of last take away order	takeaway_query
+when is my takeaway arriving	takeaway_query
+restaurant delivery update	takeaway_query
+where can i get a shot of tequila and some to go mexican food	takeaway_query
+when can i pick up my order	takeaway_query
+what time is my domino's order expected to arrive	takeaway_query
+does peking garden take orders over the phone	takeaway_query
+what is happening to my order	takeaway_query
+does that restaurant allow take out orders	takeaway_query
+when do i need to leave to pick up my order	takeaway_query
+find out if the restaurant does takeaway orders	takeaway_query
+what asian restaurants nearby offer to go food	takeaway_query
+where can i order pizza for delivery	takeaway_query
+what is the status of my order	takeaway_query
+when will by order from taco bell be delivered	takeaway_query
+does pf changs accept takeout orders	takeaway_query
+does fongs do carry out	takeaway_query
+running train status to vienna	transport_query
+how do i get from where i'm at to universal in orlando florida	transport_query
+can you reserve a ticket to grand rapids by train	transport_query
+how far is it from tokyo to dallas	transport_query
+can you find me a train ticket to montauk	transport_query
+can you give me train times for ann arbor	transport_query
+tell me the trains from california to new jersey after eleven pm	transport_query
+what is the most convenient hour to catch a train to york on Saturday	transport_query
+give me train times from station to location	transport_query
+what trips are available from new york city to poughkeepsie	transport_query
+route to melbourne	transport_query
+what times may i travel to location a	transport_query
+where can i book a train ticket to oregon	transport_query
+give me the list of available train tickets from edinburgh to leeds	transport_query
+get me train times to location from station	transport_query
+get route for los angles from here	transport_query
+tell me the exact arrival time of train from newcastle to edinburgh	transport_query
+how long is it from dalls to san antonio by train	transport_query
+directions please	transport_query
+how far away is the nearest rest stop	transport_query
+what time does the train arrive at edinburgh	transport_query
+train to athens how to	transport_query
+give me directions for the place	transport_query
+how long does it take for the train to get to orlando	transport_query
+give the shortest route to the airport	transport_query
+search cost for amtrak luxury to los angeles	transport_query
+is there a train from philadelphia to new york city at noon	transport_query
+how long does it take to get from here to chicago by train	transport_query
+what time does the train depart from downtown los angeles to santa barbara	transport_query
+price of train ticket from delhi to mumbai	transport_query
+when is the next train to london	transport_query
+direct me towards nearest railway station	transport_query
+search for trains leaving tonight for london	transport_query
+how long does it take to get there	transport_query
+take me to tnagar	transport_query
+train schedule	transport_query
+visit metronorth dot com to help me purchase train tickets	transport_query
+tell me the time when punjab mail will reach gwalior	transport_query
+when does the train from kansas city to iowa leave	transport_query
+when is the next train leaving for austin	transport_query
+get me directions to meijer	transport_query
+how do i get to poughkeepsie from new york city	transport_query
+book a taxi to airport for me in the evening	transport_taxi
+please book me a taxi uber	transport_taxi
+find the nearest uber	transport_taxi
+find me an uber	transport_taxi
+call a taxi to pick me up right now	transport_taxi
+request a driver for uber in five minutes	transport_taxi
+look for a taxi to go home	transport_taxi
+find a taxi to go home	transport_taxi
+i need a uber to my current location	transport_taxi
+schedule me a taxi for after my thursday meeting	transport_taxi
+where is the closest uber	transport_taxi
+could you please book a cab for me in uber from la to ny today	transport_taxi
+request a taxi from udrive service	transport_taxi
+can you call an uber for me	transport_taxi
+book a taxi for pickup at my current location in one hour's time	transport_taxi
+get me a taxi	transport_taxi
+book an uber to los angeles cinemas in one hour	transport_taxi
+book my nearest available taxi	transport_taxi
+book an uber to pick me up outside of long island bar right now	transport_taxi
+book me a cab	transport_taxi
+book a local cab	transport_taxi
+please book the next taxi	transport_taxi
+book ola for airport today evening	transport_taxi
+book a taxi	transport_taxi
+schedule taxi pickup for monday at noon	transport_taxi
+find an uber that can get me to the airport now	transport_taxi
+book uber for tonight at seven pm	transport_taxi
+call a taxi to pick me up at work	transport_taxi
+open the uber app and get me a car please	transport_taxi
+please call a taxi to arrive at four hundred and take me to the manor theater	transport_taxi
+book for me an uber taxi to carmen drive	transport_taxi
+i need to book a taxi	transport_taxi
+book uber taxi for my travel	transport_taxi
+please book a taxi in uber for me to go to the airport today	transport_taxi
+open uber and book a car for twelve o'clock	transport_taxi
+find the nearest taxi	transport_taxi
+reserve the closest uber	transport_taxi
+call me a taxi	transport_taxi
+can you book an uber tomorrow	transport_taxi
+search for two tickets on tuesday's train to paris	transport_ticket
+buy an acela train ticket on thursday	transport_ticket
+book me a return trip from edinburgh to london by train	transport_ticket
+i want a train ticket to oregon	transport_ticket
+book me a train ticket for this afternoon to chicago	transport_ticket
+book a train for twenty two march at twelve pm	transport_ticket
+google i need one train ticket to new york can you book that for me	transport_ticket
+hey i want to get trains to manchester on Wednesday	transport_ticket
+schedule a journey to las vegas by train	transport_ticket
+get me a seat on the next train going to new york	transport_ticket
+get a me a train ticket to milwaukee from chicago on sunday morning	transport_ticket
+please book a train ticket from london to manchester	transport_ticket
+get me two train tickets from where i am now to dallas arriving before dark	transport_ticket
+repurchase last train ticket to phillyx	transport_ticket
+book ticket to depart in the morning	transport_ticket
+travel book a train ticket	transport_ticket
+find out the the train arrival time and book me	transport_ticket
+can i get a train ticket to	transport_ticket
+get me a ticket to boston	transport_ticket
+book a train ticket from canada to las vegas	transport_ticket
+id like to get on the next train that will be departing indianapolis headed to chicago	transport_ticket
+book a train ticket for one one way for this tuesday at nine am	transport_ticket
+book my chair class ac train ticket from manhattan to new york	transport_ticket
+book me a train ticket at earliest time tomorrow	transport_ticket
+i need to leave on the five pm train to rockville	transport_ticket
+transportation ticket booking train	transport_ticket
+can you book a train ticket for my father	transport_ticket
+book a ticket for the evening train line	transport_ticket
+i need a train ticket to	transport_ticket
+find me a train ticket to boston	transport_ticket
+find me a train ticket next monday to new york city	transport_ticket
+reserve a train ticket for me today to des moines	transport_ticket
+can you book me a train ticket to bombay for tomorrow in any train	transport_ticket
+book a train ticket from here to charleston west virginia at eight am today	transport_ticket
+i want a train ticket	transport_ticket
+could you make a train ticket for me	transport_ticket
+book me a train ticket for saturday	transport_ticket
+can you check train schedule to berkeley	transport_ticket
+go to www dot metronorth dot com for train tickets	transport_ticket
+i want the cheapest train ticket to new york	transport_ticket
+best ticket price air plane to chester on the twenty first	transport_ticket
+buy a train ticket for one week from now from new york to las vegas nevada	transport_ticket
+are there any traffic delays	transport_traffic
+how is the traffic around city center	transport_traffic
+please give me the road forecast for i95 sb	transport_traffic
+how bad is the traffic near the airport	transport_traffic
+how's the traffic downtown	transport_traffic
+in jaipur traffic level is high	transport_traffic
+is there any stopped traffic on route eighty today	transport_traffic
+what is the traffic this morning	transport_traffic
+is it possible to drive now in ohio	transport_traffic
+what's the traffic this morning	transport_traffic
+how is the traffic right now	transport_traffic
+is it bumper to bumper	transport_traffic
+how is the current traffic between	transport_traffic
+Show me a traffic map from kamycka to dejvicka	transport_traffic
+tell me current situation of traffic near central park road	transport_traffic
+what is the traffic today	transport_traffic
+how long will it take me to drive to work today	transport_traffic
+is the road a free way or a toll road	transport_traffic
+give me the idea of current traffic condition	transport_traffic
+what are the traffic conditions currently	transport_traffic
+is there any traffic downtown right now	transport_traffic
+give me current information about traffic at central park road	transport_traffic
+how is traffic over the donner summit now	transport_traffic
+how is the traffic on the i fifteen in las vegas today	transport_traffic
+what amount of traffic in this road	transport_traffic
+tell me the traffic condition from here to home	transport_traffic
+how long to get to work	transport_traffic
+what traffic is there on the route to the pittsburgh airport	transport_traffic
+how long will it take me to get to park avenue considering current traffic	transport_traffic
+is there traffic right now in maiden lane	transport_traffic
+traffic report	transport_traffic
+how is the traffic situation in houston street	transport_traffic
+how is the traffic today	transport_traffic
+will traffic be good when i leave in five minutes	transport_traffic
+can you tell me about the traffic	transport_traffic
+traffic please	transport_traffic
+length of traffic	transport_traffic
+how bad is traffic this morning	transport_traffic
+what's traffic likexchange on four hundred and forty one	transport_traffic
+is the road in some particular area wide or narrow	transport_traffic
+is there is a high traffic	transport_traffic
+is the road clear in florida	transport_traffic
+weather report of the week	weather_query
+will there be snow tomorrow	weather_query
+what will the weather be like in austin on march sixteenth	weather_query
+will i need an umbrella tomorrow	weather_query
+do i need a light or heavy jacket today	weather_query
+how many degrees is it in orange tx right now	weather_query
+what is the temperature	weather_query
+it seems cold	weather_query
+what will be the weather update for monday noon	weather_query
+am i gonna need rain boots	weather_query
+what will be the highest temperature this week	weather_query
+let me know the weather for today	weather_query
+what's the weather this week	weather_query
+do i need to take an umbrella today	weather_query
+how's the weather today	weather_query
+is it going to be cloudy in london during the weekend	weather_query
+what is the weather this friday	weather_query
+i need to know current weather in new york city	weather_query
+is it sunny in gonbad now	weather_query
+tell me the current weather for danville il	weather_query
+i will need a scarf in afternoon to overcome sunlight	weather_query
+what's it like outside	weather_query
+i am gonna need an umbrella today after sunset	weather_query
+give me the weather for merced at three pm	weather_query
+should i wear a hat today	weather_query
+what is the weather like outside	weather_query
+sunny in oslo	weather_query
+what's the weather in toronto today	weather_query
+will the temperature be in the today	weather_query
+Is it going to be windy on Saturday in denver	weather_query
+is it going to rain in the next few days in tucson	weather_query
+should i take my raincoat with me now	weather_query
+how hot is it in quebec	weather_query
+how's the weather like in beijing	weather_query
+do i need to carry umbrella for evening	weather_query
+is it snowing in seattle	weather_query
+will it be raining on thursday	weather_query
+please tell me the chances of rain this week for zip code twenty nine thousand nine hundred and seventy eight	weather_query
+it looks sunny and clear today is that true	weather_query
+weather forecast please	weather_query
+weather forecast for this week	weather_query
+do i need to wear a coat today	weather_query

@@ -1,0 +1,78 @@
+text	label
+My refund has not arrived, and I am unsure why. Who do I contact?	Refund_not_showing_up
+Just received my replacement card, what steps do i need to take to activate it?	activate_my_card
+I'd like to open an account for my kids can I do that?	age_limit
+Can I use my Apple Watch to pay for gas?	apple_pay_or_google_pay
+Where are the ATMs that I can use Mastercard?	atm_support
+Can i set up an auto top-up?	automatic_top_up
+How long do bank transfers usually take?	balance_not_updated_after_bank_transfer
+How long does a check take to show up in the account balance?	balance_not_updated_after_cheque_or_cash_deposit
+For some reason, I'm unable to transfer funds.	beneficiary_not_allowed
+I need to reverse a transaction	cancel_transfer
+My card is about to expire.  Are there any costs with a replacement card?  How quick do you mail it to me?	card_about_to_expire
+Where can I use this card?	card_acceptance
+What's the reason my new card hasn't come?	card_arrival
+Can it specifically be delivered on a certain date?	card_delivery_estimate
+Can you tell me how to get my card on the app?	card_linking
+I need help with understanding why my card is not working.	card_not_working
+I was charged a fee for using my card. Can I check that in any way? It seems like there are occasions that I am charge for fees. Can you elaborate this?	card_payment_fee_charged
+Payment I did not make.	card_payment_not_recognised
+I think there was an error in your exchange rate.	card_payment_wrong_exchange_rate
+I have lost my credit card in the ATM!	card_swallowed
+Hello, I wanted to get some more information about ATM Withdraw Fee. I have been withdrawing money for years and notice this charge on my account. I always thought it was no fee since its you guys ATM company that I am withdrawing. Can you please explain?	cash_withdrawal_charge
+Please help me figure out the reason for the odd withdrawal amount from my account?	cash_withdrawal_not_recognised
+What steps do I have to take to change my PIN?	change_pin
+Should I order a new card before I freeze my original one?	compromised_card
+I've tried using my contactless in several locations today and it's not working anywhere. It seemed fine before. How do I get it to work again?	contactless_not_working
+What countries are you available in?	country_support
+My card payment has been declined	declined_card_payment
+Why wouldn't the ATM give me my money?	declined_cash_withdrawal
+I noticed my transfer was declined.	declined_transfer
+There's a payment showing in the app today even though I have not used my card at all. I want a refund.	direct_debit_payment_not_recognised
+What is the maximum number of transactions I can do with a disposable card?	disposable_card_limits
+I want to change my account details.	edit_personal_details
+What is the fee for accepting money from a foreign country?	exchange_charge
+How did you guys get your exchange rate?	exchange_rate
+Can I exchange currencies with the app?	exchange_via_app
+I was charged an extra dollar on my account and would like to know the reason.	extra_charge_on_statement
+I can't seem to make a standard bank transfer. I have tried at least five times already but none of them are going through. Please tell me what is wrong?	failed_transfer
+Can you do exchanges of EUR?	fiat_currency_support
+How do I use disposable cards?	get_disposable_virtual_card
+My card arrived but I don't know how to get my PIN.	get_physical_card
+I would like to give another card to my daughter, how can I proceed?	getting_spare_card
+I haven't received my virtual card yet!!	getting_virtual_card
+Report stolen card	lost_or_stolen_card
+I left my phone at the hotel.	lost_or_stolen_phone
+Is there a fee to get an actual card?	order_physical_card
+I can't find my code	passcode_forgotten
+How long does it actually take for a card payment to go through? There's one stuck since a couple of days already that doesn't seem to move	pending_card_payment
+I am not seeing recent cash withdrawal on my account.	pending_cash_withdrawal
+What do I do if my top-up has not gone through?	pending_top_up
+How long will the transfer take?	pending_transfer
+I have used all of my PIN tries. What should I do now?	pin_blocked
+Can I receive payment in another currency?	receiving_money
+I have not received an item i ordered yet so i want to cancel it and get a refund. Can you please guide me on how to go about it?	request_refund
+I think my card payment has been refunded	reverted_card_payment?
+What currencies do you accept for adding money to my account?	supported_cards_and_currencies
+Where do I go to terminate my account?	terminate_account
+Am I able to do a SWIFT transfer with you?	top_up_by_bank_transfer_charge
+Are there any fees if I want to add money using an international card?	top_up_by_card_charge
+Can I top up using cash?	top_up_by_cash_or_cheque
+Why would the app deny my top-up?	top_up_failed
+Can I increase my top-up maximum?	top_up_limits
+Hello. I tried doing a topup and I thought it worked, but now the money is no longer in my account. Can you explain?	top_up_reverted
+Can friends I have top-up my account?	topping_up_by_card
+To many charges on my card how do I go about fixing that?	transaction_charged_twice
+I just transferred some money. Why was I charged a fee?	transfer_fee_charged
+I have questions about how to transfer money to my account.	transfer_into_account
+My transfer has not arrived.	transfer_not_received_by_recipient
+When will the money from a transfer be made available on my account?	transfer_timing
+The app failed to verify me.	unable_to_verify_identity
+Where in the app do I go to verify my identity?	verify_my_identity
+Please explain to me how to know where my funds are from.	verify_source_of_funds
+How do I find the top-up verification code?	verify_top_up
+How do I get this damn virtual card to work?	virtual_card_not_working
+Why can I not choose the card i want?	visa_or_mastercard
+Why is it required to verify my identity?	why_verify_identity
+I got less money than I asked for.	wrong_amount_of_cash_received
+what are weekend rates for getting cash	wrong_exchange_rate_for_cash_withdrawal

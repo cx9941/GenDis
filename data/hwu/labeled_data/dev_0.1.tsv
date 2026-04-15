@@ -1,0 +1,110 @@
+text	label
+confirm alarm for tomorrow morning	alarm_query
+what's the description for the alarm at eleven am	alarm_query
+delete my eight pm alarm	alarm_remove
+set my alarm for eight am	alarm_set
+open clock	alarm_set
+lower volume by fifty percent	audio_volume_down
+shut up	audio_volume_mute
+change the volume level to nineteen please	audio_volume_up
+where is tuesday's morning meeting	calendar_query
+from four to six when do i have a free break	calendar_query
+please clean my calendar	calendar_remove
+make sure there is no events on my calendar	calendar_remove
+don't let me forget i have a parent teacher conference this monday at four hundred pm	calendar_set
+remember to remind me about client meet at four pm	calendar_set
+boiled	cooking_recipe
+what do i need to make pot roast	cooking_recipe
+if it's sunrise in stockholm what time is it in okinawa	datetime_convert
+what time is it on the west coast	datetime_query
+what is the time in london	datetime_query
+enter atdfd@yahoo dot com into my contact list	email_addcontact
+are there any recent emails from rohit	email_query
+did i receive any new email	email_query
+are my contacts mostly female or male	email_querycontact
+help me call james	email_querycontact
+start email for address not in contacts	email_sendemail
+email james about the softball game james we need to get some refreshments before heading over	email_sendemail
+correct response to the command.	general_affirm
+yeap it was correct.	general_affirm
+olly please could you cancel.	general_commandstop
+olly stop please.	general_commandstop
+would you please confirm the instruction.	general_confirm
+would you please check what i last said.	general_confirm
+anything is ok for me.	general_dontcare
+what did you mean by saying it.	general_explain
+what is the highest rated joke today	general_joke
+goddammit.	general_negate
+i appreciate answers.	general_praise
+moderate	general_quirky
+suggestions for future	general_quirky
+i would like to hear what i've said again.	general_repeat
+i'd like to hear the last utterance spoken again.	general_repeat
+remove dust with vacuum cleaner	iot_cleaning
+clean the sofa with the vacuum cleaner	iot_cleaning
+make me a cappuccino	iot_coffee
+make the coffee	iot_coffee
+change lights from red to blue	iot_hue_lightchange
+i would like the house lights to be pink	iot_hue_lightchange
+dim the bedroom lights to half	iot_hue_lightdim
+can you make the lights go out	iot_hue_lightoff
+put the lights off now	iot_hue_lightoff
+i want to turn on the blue lights	iot_hue_lighton
+brighten the light at seventy percent	iot_hue_lightup
+off all type of active devices	iot_wemo_off
+turn on wemo plug in game room	iot_wemo_on
+please add list of friends to invite for the party	lists_createoradd
+i need you to put walk the dog on my list to do	lists_createoradd
+will you please show me my lists	lists_query
+is there anything on my list today	lists_query
+remove the bank transaction list	lists_remove
+can you remove my to do list	lists_remove
+compile favorites list according to my song feedback	music_likeness
+i enjoy listening to this song it really calms me down	music_likeness
+what are the lyrics to the song i will always love you by Dolly parton	music_query
+what music genre do i play most	music_query
+replay the musics	music_settings
+please advise what the current news is on fox news	news_query
+what's happening in world news today	news_query
+please repeat the last sentence from that book	play_audiobook
+start over the book legacy	play_audiobook
+open up tetris	play_game
+play solitaire with me	play_game
+coordinate all pop song genres	play_music
+please play only sad song in music player	play_music
+play compassionate cook episode twenty three	play_podcasts
+move on to the next podcast episode	play_podcasts
+tune into the joe rogan show in ten minutes	play_radio
+i want to hear this radio station now	play_radio
+what is six hundred euros in u. s. d.	qa_currency
+what is us dollar today	qa_currency
+object identifier	qa_definition
+get me new definition	qa_definition
+how far is parana river	qa_factoid
+tell me about alexander the great	qa_factoid
+could you calculate five plus five	qa_maths
+what is the price of amd on the stock market	qa_stock
+tell me about price of stock for innova	qa_stock
+are there any events going on in milan	recommendation_events
+are there any good social events happening in my area	recommendation_events
+where can i got to grab some drinks in west chester	recommendation_locations
+where is the closest bar	recommendation_locations
+show me best in class theatre	recommendation_movies
+i would like to place a call to amazon customer service	social_post
+tweet kohls about the cleanliness of their store	social_post
+are there any updates on facebook	social_query
+may i know what is trending in facebook	social_query
+ordering food	takeaway_order
+hey order two wings with french fries from the chinese food store	takeaway_order
+how much longer until my pizza will be here	takeaway_query
+check delivery options for the restaurant	takeaway_query
+what is the time of the morning train headed to chicago	transport_query
+what time does the train leave philadelphia	transport_query
+google uber	transport_taxi
+could you please hire me a taxi to go to the opera tonight	transport_taxi
+i need the current dart rail schedule from west irving station to north lake college	transport_ticket
+please book a ticket form jaipur to mumbai on tuesday	transport_ticket
+could you please check the traffic to our home	transport_traffic
+are there any traffic restrictions due to the president's visit	transport_traffic
+how hot is it outside today	weather_query
+what will be the highest temperature in coming week	weather_query

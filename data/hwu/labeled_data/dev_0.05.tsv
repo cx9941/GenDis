@@ -1,0 +1,65 @@
+text	label
+what time are my alarms	alarm_query
+turn off my alarm	alarm_remove
+set an alarm at six am tomorrow	alarm_set
+lower the speakers	audio_volume_down
+do not make any noise until morning alarm	audio_volume_mute
+the volume of the music playing now should be raised	audio_volume_up
+from four to six when do i have a free break	calendar_query
+please clean my calendar	calendar_remove
+twelveth july is bola's birthday and my calendar to be updated with this date	calendar_set
+show me how to cook a recipe	cooking_recipe
+convert twenty one thirty from gtm four to g. m. t. four thirty	datetime_convert
+what day does easter fall on	datetime_query
+please add to my contact lists and send them a reminder email	email_addcontact
+what are my newest emails	email_query
+find jhonny's address	email_querycontact
+send reply to joe	email_sendemail
+yeap correct response.	general_affirm
+olly could you please shut off.	general_commandstop
+would you please check what i last said.	general_confirm
+don't really bother.	general_dontcare
+can you please explain more on last sentence to me.	general_explain
+humor me	general_joke
+it must be mistake.	general_negate
+i appreciate answers.	general_praise
+this brings some problems to us	general_quirky
+would you do it again please.	general_repeat
+does the robot vacuum cleaner have to be plugged in	iot_cleaning
+will you please get the coffee machine to make some coffee	iot_coffee
+change the light color to blue	iot_hue_lightchange
+please lower the lights a little bit	iot_hue_lightdim
+turn off the lights in the bedroom	iot_hue_lightoff
+please turn the lights on	iot_hue_lighton
+raise all the lights on	iot_hue_lightup
+the wemo plug should be turned off on	iot_wemo_off
+start the laundry	iot_wemo_on
+i need you to put walk the dog on my list to do	lists_createoradd
+will you please show me my lists	lists_query
+eliminate the list kickball but make sure the contacts remain	lists_remove
+please rate this song five stars please	music_likeness
+tell me the name of the song	music_query
+shuffle the current album of songs	music_settings
+latest updates on syrian civil war	news_query
+start over the book legacy	play_audiobook
+video games	play_game
+please play for me elvis presley song again	play_music
+play next doctor who episode	play_podcasts
+i'd like to listen to my favorite morning show in the car on the way to work please	play_radio
+convert five s. d. to rials	qa_currency
+how would the volkswagen golf car look like	qa_definition
+tell me why relationships are so hard	qa_factoid
+what is two plus four	qa_maths
+what is the price of amd on the stock market	qa_stock
+what exhibits or shows are scheduled at the metropolitan theater	recommendation_events
+what mexican food is around me	recommendation_locations
+check for all the movie theater prices and availability for a newly released movie in my location	recommendation_movies
+tweet a complaint	social_post
+tell me the exact count of followers on my twitter handle as of today	social_query
+please order my favorite dish from my favorite restaurant	takeaway_order
+check delivery options for the restaurant	takeaway_query
+what is the departure time for the next train leaving new york city	transport_query
+call me a cab to the train station	transport_taxi
+please purchase me a train ticket to atlanta	transport_ticket
+please let me know about current traffic in carmen drive	transport_traffic
+what will be the highest temperature in coming week	weather_query

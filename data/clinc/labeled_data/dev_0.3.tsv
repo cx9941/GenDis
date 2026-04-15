@@ -1,0 +1,601 @@
+text	label
+does hannahs in galloway take reservations	accept_reservations
+does bar tartine in san francisco take reservations	accept_reservations
+can i make a reservation for redrobin	accept_reservations
+can you let me if zeus accepts reservations	accept_reservations
+reasons that us bank would place a hold on my account	account_blocked
+tell me why i get an error logging in to my bank account	account_blocked
+i get an error message when i try logging in to capital one that says i'm locked out	account_blocked
+for what reason is my account blocked	account_blocked
+could you set one alarm for 8am saturday and one for 9am sunday	alarm
+wake me up at 6 am	alarm
+set my alarm for six tomorrow morning	alarm
+i'd love to set an alarm	alarm
+did my chase card application go through yet	application_status
+have my app for a new card been processed yet	application_status
+please find out the current status of my credit card application	application_status
+let me know if my application for american saving bank	application_status
+i want to know my credit card apr	apr
+this credit card's apr is what	apr
+what is the apr on my aaa visa card	apr
+what is the credit card apr if you could fill me in	apr
+are you considered a bot	are_you_a_bot
+can you tell me if your a bot	are_you_a_bot
+you sound like a bot	are_you_a_bot
+are you ai or a real person please	are_you_a_bot
+do i have money in my wells fargo account for nike's	balance
+how much total cash do i have in the bank	balance
+could be there be a good amount of money in my checking account to go on a vacation	balance
+how much money do i have in my account	balance
+what is the total of all my bills combined	bill_balance
+let me know how much money i will need to spend on paying bills	bill_balance
+can you tell me the total cost of my bills please	bill_balance
+let me know the amounts i owe for my utilities and tuition bills	bill_balance
+when is too late to pay my cable bill	bill_due
+how do i check when my mortgage is next up for payment	bill_due
+i would like to know my electric bills date it needs to be payed	bill_due
+when's the ac bill due	bill_due
+fly me from pit to pdx on delta for under $300	book_flight
+book a flight from bangor to las vegas on may 1st and returning july 4th	book_flight
+let me know what flights there are out of dallas to miami on march 10 for under $450	book_flight
+i need a flight booked from dallas to miami on american airlines	book_flight
+book me a hotel in chicago near the water tower shopping from april 2nd to 4th	book_hotel
+book me a hotel with good ratings in nashville	book_hotel
+in brooklyn, i need a hotel room for 4 from 3/15 until 3/20	book_hotel
+i need to get a hotel in phoenix near chase field from january 4th to the 8th	book_hotel
+can you tell me what 30% off 235 is, please	calculator
+subtract 85 from 997	calculator
+what is the derivative of x squared plus 5	calculator
+find square root of 453	calculator
+remind me of the date of the event called 'anniversary dinner	calendar
+what do i have scheduled on march 2nd on my calendar	calendar
+check my calendar for saturday	calendar
+read me my schedule for march 2	calendar
+put a reminder on the calendar to buy a gun on march 1st	calendar_update
+will you remove the dinner with june on saturday the 4th at 7pm from my calendar	calendar_update
+take lunch off my calendar on the 3rd	calendar_update
+remove celebrate anniversary from my calendar	calendar_update
+how many calories are in a honey bun	calories
+one cup of almonds has how many calories	calories
+tell me the amount of calories in muffins	calories
+what are the total calories for two servings of pasta	calories
+how do i make you stop talking	cancel
+negate last command	cancel
+quit talking	cancel
+halt	cancel
+can you cancel my reservation tonight for chris at smith and wollensky	cancel_reservation
+i would like to cancel my reservations	cancel_reservation
+i need you to cancel my reservation for smith's at 6:15	cancel_reservation
+please delete the reservation for 3 people at outback	cancel_reservation
+i need to rent a car in boston for march 2 until march 4	car_rental
+i'd like to rent an automobile in pittsburgh from this tuesday until next thursday can i do that	car_rental
+i need to rent a car in boston	car_rental
+can you help me book a bmw suv for march 2 to 6th, dallas texas	car_rental
+so my card was declined at fry's and i wanna know why	card_declined
+is my card working properly	card_declined
+my card was declined at the store yesterday, what happened	card_declined
+my card was rejected at the zoo, could you tell me why	card_declined
+what are the rules for carry on luggage for delta	carry_on
+how many carry ons can i take on a flight with american airlines to japan	carry_on
+i need to know the carry-on rules for southwest	carry_on
+when taking a flight with porter to toronto, how many carry ons can i take	carry_on
+change the accent you're using	change_accent
+speak in a male voice	change_accent
+change accent to british male	change_accent
+change to girl voice	change_accent
+can we change your name to clara	change_ai_name
+i want to call you maggie	change_ai_name
+can i change you name to gretchen	change_ai_name
+can i change your name to bob	change_ai_name
+from now on, i want you to answer me using japanese	change_language
+speak mandarin	change_language
+can i start talking to you in spanish	change_language
+i need to switch the language for your responses	change_language
+speed up your talking	change_speed
+i want you to talk more quickly	change_speed
+can you change how fast you're talking to speak more slowly	change_speed
+please use a quicker rate of speech	change_speed
+please change my name to loverboy	change_user_name
+my name is nick	change_user_name
+i want you to call me bailey	change_user_name
+could you call me a different name, please	change_user_name
+set volume higher	change_volume
+be more quiet	change_volume
+a volume of 4 is ideal please	change_volume
+could you please raise your volume	change_volume
+i need to confirm my reservation for 2/20 at 8 pm	confirm_reservation
+please try to confirm my reservation for jim at barney's	confirm_reservation
+does it show me as having a reservation for tomorrow at 5	confirm_reservation
+i need to confirm that i have a reservation at red robin for josh	confirm_reservation
+how long does it take to boil an egg	cook_time
+how long am i supposed to cook pork loin	cook_time
+what's the cooking time for the cake	cook_time
+how long do the brownies need to be in the oven	cook_time
+i want to know my credit limit	credit_limit
+how high is my credit limit for my childrens place card	credit_limit
+tel me the credit limit for my credit card	credit_limit
+i would like to know the credit limit for my citibank card	credit_limit
+tell me if i can get a higher limit on my visa	credit_limit_change
+can you increase my credit limit to one thousand dollars	credit_limit_change
+credit limit change	credit_limit_change
+i would like to increase my bank of america credit limit, can you help me	credit_limit_change
+please get my credit score	credit_score
+how bad is my current credit score	credit_score
+how's my credit score	credit_score
+i want to know my credit rating	credit_score
+bring up my location	current_location
+i wanna know my current location	current_location
+i'm lost, can you tell me where i am	current_location
+what are my gps coordinates right now	current_location
+i demagnetized my card and want to report it	damaged_card
+it seems i can't use my card since it has been damaged	damaged_card
+i broke my card scraping snow off the windshield	damaged_card
+who do i report to if my credit card snaps	damaged_card
+can you tell me what the next day is	date
+what's the date tomorrow	date
+in 5 days from today, what will the date be	date
+tell me what day it is	date
+define zesty	definition
+what is the definition of incomprehensible	definition
+can you tell me what a septuagenarian is	definition
+what's the meaning of naff	definition
+i need a direct deposit	direct_deposit
+assist me to set up direct deposit	direct_deposit
+i'd like to set up a direct deposit for my paycheck	direct_deposit
+how do i set up direct deposit to my bank of hawaii account	direct_deposit
+how do i get to the college by bus	directions
+where can i find the mall closest to here	directions
+how do i get to the train by foot	directions
+find the closest cvs near galleria mall	directions
+how long will it take the bus to get to stop 23	distance
+how long does it take to get to the park in detroit	distance
+how long does it take to get to houston by bus	distance
+what's the estimated travel time to get to dc via bus	distance
+are you a pet owner	do_you_have_pets
+i am curious about whether you have pets	do_you_have_pets
+which kinds of pets do you own	do_you_have_pets
+tell me all about the creatures you own	do_you_have_pets
+what is the exchange rate between us dollars and japanese yen	exchange_rate
+tell me the current exchange rate between cad and euros	exchange_rate
+how many mexican pesos can i get for one us dollar	exchange_rate
+what is the amount of dollars i get if i trade in 6 yens	exchange_rate
+during what month will my card's expiration date fall on	expiration_date
+will my debit card go bad any time soon	expiration_date
+tell me the expiry date of my credit card	expiration_date
+what is the expiration date on my chase card	expiration_date
+i can't find my cell and need help locating it	find_phone
+please help me in finding my phone	find_phone
+tell me my phone's location	find_phone
+ai locate my phone	find_phone
+whats the status of my frontier flight	flight_status
+at what point will this flight start letting people board	flight_status
+what is the arrival time for my flight	flight_status
+where is my delta flight	flight_status
+give me a coin toss result	flip_coin
+can you get a coin and flip it	flip_coin
+flip me a coin i'm calling tails	flip_coin
+please tell me if a coin lands on tails	flip_coin
+how long can i expect to keep steak in the freezer	food_last
+can i drink milk i've kept in the fridge since wednesday	food_last
+when does my milk expire	food_last
+jello should stay in the fridge for how long	food_last
+can you put a block on my chase account right away	freeze_account
+please set my account as frozen	freeze_account
+could you put a stop on my bank account, please	freeze_account
+i want a block placed on my college fund account immediately	freeze_account
+give me a cool fact about lsd	fun_fact
+give me a fun fact about kangaroo	fun_fact
+do you know any fun facts about the ocean	fun_fact
+lets hear an interesting fact about funko pops	fun_fact
+what is my current fuel level	gas
+what percentage full is my gas tank	gas
+do i have enough gas to get home	gas
+do i have the gas to get to orlando	gas
+tell me what cas is needed for this car	gas_type
+what kind of gas do i put in my car	gas_type
+i need gas so what should i get	gas_type
+what type of gas do i use in this car	gas_type
+later	goodbye
+later gater	goodbye
+thanks bye bye!	goodbye
+later!	goodbye
+how are you	greeting
+hey, how's it going	greeting
+tell me how are you	greeting
+it is good to see you	greeting
+what time can i expect to be seated at this restaurant	how_busy
+how long will it take to be seated at the flying w	how_busy
+how long is the wait time at olive garden currently	how_busy
+can you tell me how long approximate wait times are at cheesecake factory	how_busy
+what would your age be	how_old_are_you
+i'd like to know when you were born	how_old_are_you
+i'd like to know how old you are	how_old_are_you
+where's your place of birth	how_old_are_you
+what is the best way to keep my credit score from going down	improve_credit_score
+will getting a credit card help my credit score	improve_credit_score
+what can i do to maintain good credit	improve_credit_score
+how can i raise my credit score	improve_credit_score
+how much do i make	income
+i would like to know what my income is	income
+calculate how much i earn from my job	income
+how much money did i make	income
+can i use something else if i don't have eggs	ingredient_substitution
+is pepper a replacement for salt	ingredient_substitution
+can i substitute milk for almond milk	ingredient_substitution
+can i swap cayenne pepper for black pepper	ingredient_substitution
+what do you put in avocado dip	ingredients_list
+what do you put in chili	ingredients_list
+how do you make chicken noodle casserole	ingredients_list
+what do i need to get to put into homemade tortillas	ingredients_list
+what's my current health care plan	insurance
+do you know what my health benefits are	insurance
+will you summarize my health benefits	insurance
+insurance benefits	insurance
+help me make changes to my insurance policy	insurance_change
+can you tell me how changes on my insurance policy can be made	insurance_change
+help me change my insurance	insurance_change
+how do i change my current insurance to a new plan with lower co-pay	insurance_change
+what does my checking account at chase earn in interest	interest_rate
+what do i need to do to look up my 1st republic account's interest rate	interest_rate
+what interest rate am i getting currently from oak bank	interest_rate
+i need to find the interest rate for my checking account	interest_rate
+will i receive a fee if i use my card in ireland	international_fees
+will i be charged if i use the card in australia	international_fees
+are there any transaction fee if i use my boston private card in scotland	international_fees
+will i get charged extra if i use my card while in italy	international_fees
+if i go to uganda, do i need an international visa	international_visa
+is a visa required to visit cancun	international_visa
+do i need a visa to spain	international_visa
+do i need a visa to travel to jamaica	international_visa
+i gotta jump start my car	jump_start
+i need to know how to jump start my car	jump_start
+can you tell me how to jump start a car	jump_start
+how do i jump start a bad battery	jump_start
+when did i get my last oil change	last_maintenance
+could you inform me of when i last got my car checked	last_maintenance
+what is the last date of service on my car	last_maintenance
+when was my car in the shop	last_maintenance
+in o'hare lost luggage on flight america airlines	lost_luggage
+can you tell me what to do as i am in the airport and have been for some time and there is still no sign of my suitcase	lost_luggage
+do you know where my luggage is	lost_luggage
+what steps should i take if my luggage has been lost	lost_luggage
+i would like to make a call to sal	make_call
+call tom	make_call
+i need to make a call	make_call
+can you call someone	make_call
+i don't know how to answer to that	maybe
+um, i'm not actually sure	maybe
+i am not sure	maybe
+it might go either way	maybe
+can you suggest any good meals from chicago	meal_suggestion
+what thoughts do you have about making dinnner tonight	meal_suggestion
+suggest a meal from peru for me	meal_suggestion
+give me some options on what to cook for dinner	meal_suggestion
+what is our purpose here on earth	meaning_of_life
+what is the core meaning of life	meaning_of_life
+i wonder if you can explain the meaning of life	meaning_of_life
+i gotta know the meaning of life	meaning_of_life
+how many ounces in a cup	measurement_conversion
+i wanna know how many pounds are in 10 kilos	measurement_conversion
+i need kilograms to milligrams	measurement_conversion
+what amount of millimeters are in 50 kilometers	measurement_conversion
+do i have any meetings today between 4 and 5	meeting_schedule
+how many meetings do i have today	meeting_schedule
+please tell me my meeting schedule	meeting_schedule
+what meetings do i have today between noon and one	meeting_schedule
+please tell me the minimum amount i can pay on my wells fargo credit card	min_payment
+what is the minimum i can pay for my telephone bill	min_payment
+what is the least i can pay on my mortgage bill	min_payment
+what's the minimum payment on my credit card bill	min_payment
+can you tell me the mpg of this car	mpg
+how's the mpg for this on the freeway	mpg
+what's the mpg of this car	mpg
+what kind of gas mileage do i get	mpg
+i want to find a new credit card to sign up for	new_card
+i would like to apply for a new credit card	new_card
+tell me how to apply for a credit card	new_card
+where can i apply for a black amex card	new_card
+can you tell me when our next day off is	next_holiday
+when's the next time my job'll give me a day to myself	next_holiday
+how much longer until my next day off	next_holiday
+how soon is my next day off	next_holiday
+i need you to play the next song on this playlist	next_song
+i need you to skip this song and play the next one	next_song
+skip to next track	next_song
+go to the next song on the playlist	next_song
+that isn't the right answer	no
+are you sure i don’t think that’s correct	no
+the information is wrong	no
+nay	no
+what type of nutrition does spaghetti have	nutrition_info
+what's the nutritional value for a pizza lunchable	nutrition_info
+what's the facts about nutrients in rice milk	nutrition_info
+find the nutrition info for cheese fries for me	nutrition_info
+please tell me how to change the oil in my car	oil_change_how
+i want to change the oil in my car	oil_change_how
+what oil should i use and how do i change it	oil_change_how
+i want to learn to change oil	oil_change_how
+can you make a note for my next oil change	oil_change_when
+it's been 3 years since i changed my oil, how long until i have to deal with it	oil_change_when
+where can i find information on oil changes for my car	oil_change_when
+when will my car need new oil	oil_change_when
+make a purchase of doritos	order
+order a disney gift card in the amount of five hundred dollars from costco	order
+i need you to buy a laptop	order
+order everything that's on my list for shopping	order
+i recently ran out of checks, so i wanna get some new ones	order_checks
+order more checks	order_checks
+may i order more checks for my well's fargo account	order_checks
+how can i order more checks for my regions bank account	order_checks
+was my order shipped here	order_status
+check up on the status of my online order	order_status
+i ordered for delivery, has is arrived yet	order_status
+has my online order shipped yet	order_status
+i need to pay my cable bill	pay_bill
+i wanna pay my cable bill from my checking account	pay_bill
+pay my electric bill for me	pay_bill
+can you help me pay this bill	pay_bill
+can you confirm the date my last paycheck was received	payday
+when am i paid or how often	payday
+when do i get my paycheck	payday
+what is my pay	payday
+change the pin on my chase account to be 1234	pin_change
+please tell me my pin number for my synovus account	pin_change
+go ahead and change the pin on my bank of america account to be 1234	pin_change
+can you help me with my pin number	pin_change
+lets play some music by korn	play_music
+do you have any of the beatles music	play_music
+i want to listen to music	play_music
+i want to listen to my maroon 5 playlist, play it for me	play_music
+should i bring my socket converter to england	plug_type
+what's the plug type in honduras	plug_type
+is there a conversion plug if you travel to australia	plug_type
+is a plug converter necessary in mexico	plug_type
+what number of vacation days do i have available	pto_balance
+how many vacation days have i saved up	pto_balance
+how many vacation days do i have saved up, please	pto_balance
+how many vacation days are available to me	pto_balance
+for march 1 to 2 make a pto request for me	pto_request
+can i take pto from the end of the month to the 5th of the next month	pto_request
+can you help me plan a vacation	pto_request
+is it ok if i use some of my pto on may 24th to may 29th	pto_request
+is vacation a go	pto_request_status
+on my vacation request, what is the latest information	pto_request_status
+please let me know what the status of my day off request is	pto_request_status
+has my day off request been approved or denied yet	pto_request_status
+look up how many of my days off i have used so far	pto_used
+how many days so far have i taken off	pto_used
+how many days off have i taken so far this year	pto_used
+check how many days off i've taken	pto_used
+find out how to make chicken tikka masala	recipe
+i need a pancake recipe	recipe
+scan you find me a chicken recipe	recipe
+i want a good recipe that shows me how to bake chocolate chip cookies from scratch	recipe
+i would like to use my credit card points	redeem_rewards
+how do i get rewards from my visa card	redeem_rewards
+can i redeem my points on gas	redeem_rewards
+in order to redeem my credit card points, what should i do	redeem_rewards
+let me know what is on my reminder list	reminder
+what are my reminders	reminder
+read me my reminders list	reminder
+my list of reminders contains what	reminder
+i would like you to remind me to do something	reminder_update
+set a reminder for me to let the plumber in tomorrow	reminder_update
+create a reminder for me to send flowers to my mom for mother's day	reminder_update
+i would like to be reminded	reminder_update
+what was that last thing you said	repeat
+i did not catch that, repeat what you just said	repeat
+can you repeat that please	repeat
+i am going to need you to say that again	repeat
+how long will it takes to get a new credit card	replacement_card_duration
+if i order a new card how long would it take	replacement_card_duration
+do you know when my card will come in	replacement_card_duration
+when will the replaecment card arrive	replacement_card_duration
+i have charges on my amex card i didn't make	report_fraud
+can you help me deal with this fraudulent transaction from verizon on my account	report_fraud
+i got to report fraudulent activity on my credit card	report_fraud
+i want to report fraudulent activity on my discover card	report_fraud
+my credit card has been stolen, please report it	report_lost_card
+i lost my commerce card and need to report it as lost	report_lost_card
+i lost a card and i need to report it	report_lost_card
+i lost my card and need to report it	report_lost_card
+change to factory settings now	reset_settings
+you need to go back to the original settings	reset_settings
+refresh to factory defaults	reset_settings
+go back to your manufacturers' settings	reset_settings
+reserve a table at tropicana for 5 people under the name martins for 8pm	restaurant_reservation
+call and make a 5:45 pm reservation for jason rogers, table for four	restaurant_reservation
+you must reserve a table for 4 at red robin under the name kevin at 7	restaurant_reservation
+reservations for two need to be made using michael's name for 7:00pm at olive garden	restaurant_reservation
+i need to hear reviews for panda express	restaurant_reviews
+what do people think of the new burger at mcdonalds	restaurant_reviews
+are the ratings for yardhouse good	restaurant_reviews
+are the donuts at tgi well reviewed	restaurant_reviews
+what's a good place to go to for food around here	restaurant_suggestion
+what are some good places to eat at	restaurant_suggestion
+what are some good places to go out for dinner in my area tonight	restaurant_suggestion
+does brooklyn have good italian restaurants	restaurant_suggestion
+what is my bank of america card's rewards balance	rewards_balance
+how many points did i get on my discover card	rewards_balance
+i really need to check my rewards for my credit card	rewards_balance
+what's the amount of points i have earned with my discover card	rewards_balance
+please roll a 10 sided die and tell me what number it is	roll_dice
+please roll a 7 sided die	roll_dice
+how much do you get when you roll an eight sided die	roll_dice
+please roll dice	roll_dice
+tell me how to transfer my 401k	rollover_401k
+can my 401k rollover or not	rollover_401k
+is there a way to roll over my 401k	rollover_401k
+can i transfer my 401k somewhere	rollover_401k
+what's the routing number for my bank of america account	routing
+i want to know the bofa routing number	routing
+where can i find routing number for pnc	routing
+i need a routing number	routing
+can someone look at my check engine light	schedule_maintenance
+can i make an appointment for an oil change	schedule_maintenance
+i need to make an appointment for an oil change, please	schedule_maintenance
+i need to arrange an appointment to have my car's tires examined	schedule_maintenance
+are there any meetings room available between 8:00 and 9:00 am	schedule_meeting
+can you schedule a meeting with james at the office	schedule_meeting
+one and three pm are there meeting rooms open	schedule_meeting
+is there a meeting room available between one and two	schedule_meeting
+send my location to this individual	share_location
+let the wife see where i'm at	share_location
+share location with bill	share_location
+i need the tow truck to be given my gps coordinates	share_location
+what do i need to get when i go shopping	shopping_list
+what kind of items are on my shopping list	shopping_list
+would you let me know what is on my shopping list	shopping_list
+what items are on my shopping list	shopping_list
+take off fries from the shopping list	shopping_list_update
+put soda on the shopping list and add carrots	shopping_list_update
+take toilet paper off my shopping list and add paper towels	shopping_list_update
+i'm out of paper towels so will you put that on my shopping list	shopping_list_update
+what temp is the ac at	smart_home
+will you please get my furnace turned on	smart_home
+who is knocking	smart_home
+i need you to turn the tv on now	smart_home
+how do you spell water	spelling
+tell me how many a's are in magical	spelling
+count the number of the letter a in happiness	spelling
+please spell the word umbrella	spelling
+have i spent too much of my paycheck on donuts lately	spending_history
+how much have i spent on video games recently	spending_history
+what's it been costing me to buy three packs a day	spending_history
+have i gone over my chocolate budget lately	spending_history
+i would like to pair this with my new phone	sync_device
+you must connect to my phone	sync_device
+put a device with my phone	sync_device
+please turn off your wifi from my phone	sync_device
+how are my state taxes looking	taxes
+what is the amount of money that i have to pay in taxes	taxes
+how much do i pay in income tax	taxes
+how much state taxes do i owe	taxes
+have you heard any great jokes lately	tell_joke
+tell me a joke about politicians	tell_joke
+give me a joke about the topic of television	tell_joke
+tell me a joke if you'd like to	tell_joke
+i have to send a text	text
+send robert a text from me telling him okay	text
+i want to send a text	text
+text someone	text
+youre a doll	thank_you
+thank you for answering that	thank_you
+i'm thankful for your help	thank_you
+i apprecaite the help from you	thank_you
+what time is it in the mountain timezone	time
+at the moment what is the time	time
+tell me what the time is in dallas	time
+what time is it right now in adelaide, australia	time
+make a timer for 5 minutes	timer
+i want a timer set for 10 minutes	timer
+i need a timer that is set at 1 hour exactly	timer
+the timer should have 10 minutes set to it	timer
+what timezone is viet nam in	timezone
+what is the timezone for paris	timezone
+can you tell me the timezone that hartford is in	timezone
+what time zone are we currently in	timezone
+how long do tires last for	tire_change
+how often do you change your tires	tire_change
+if i replaced my tires on christmas eve, when will i need to replace them again	tire_change
+when should my car's tires be changed	tire_change
+are my tires low on air	tire_pressure
+should i be concerned about the air in my tires	tire_pressure
+are my tires properly inflated with air	tire_pressure
+what's the current tire pressure of my tires	tire_pressure
+have i added anything to my todo list	todo_list
+do i have cleaning the counters on my to-do list	todo_list
+tell me what i have on my todo list	todo_list
+can you tell me all of the things on my to do list for tomorrow, please	todo_list
+add dishes to my list	todo_list_update
+add clean bathroom to my to do list	todo_list_update
+put laundry on my chore list	todo_list_update
+please take shoveling the car off my todo list	todo_list_update
+how is the traffic on my way to the venue	traffic
+is there traffic on bramble lane	traffic
+going to work, will there be traffic	traffic
+how bad is traffic at 8 on the way to burger king	traffic
+can you check on a transaction for me	transactions
+please give me my last ten debit card transactions in the month of december	transactions
+show me recent transactions	transactions
+what are my recent transaction	transactions
+i'd like to transfer $400 from household to savings account	transfer
+i would like help moving money between accounts	transfer
+send $100 from paypal to my bank	transfer
+put a hundred dollars in my ally account from bluebird	transfer
+what is spanish for hello	translate
+tell me how to say, 'it is a beautiful morning' in italian	translate
+how would you say can i borrow five dollars in portuguese	translate
+please translate grocery into french for me	translate
+any travel alerts for south korea	travel_alert
+how safe is visiting canada this week	travel_alert
+have there been any travel alerts for the us	travel_alert
+list of countries with travel alerts	travel_alert
+let my bank know i'll be in ireland from may 01, 2019 to august 02, 2019	travel_notification
+assure my bank i really am going to california	travel_notification
+i'm traveling to london soon and want to inform my bank	travel_notification
+since i am traveling to asia, i need to inform the bank	travel_notification
+what can i do in nashville	travel_suggestion
+find something fun for me to do in dallas	travel_suggestion
+what do tourists do for fun in seattle	travel_suggestion
+what are some interesting things to do in dc	travel_suggestion
+send me an uber now for four people and we are going to appleby's downtown	uber
+i need an uber for 7 people to go to safire restaurant	uber
+help me get an uber	uber
+find an uber xl to take me to the kroger near me	uber
+please add this song to my study playlist	update_playlist
+put the song that's playing to my techno playlist	update_playlist
+i really would like to add hey jude by the beatles to my playlist	update_playlist
+will you be sure to add this current song to my sleep playlist	update_playlist
+what will you call me	user_name
+so what is my current name saved as	user_name
+do you have my name programmed	user_name
+do you my name	user_name
+is vaccination necessary for travel to asia	vaccines
+are vaccinations needed for trips to guana	vaccines
+do i need any shots if i travel to africa	vaccines
+is it necessary to get a shot for travel to india	vaccines
+where do i get the tax form that shows my wages	w2
+so where do i get the w2 form	w2
+where could i find forms to get my w2	w2
+how and where are my w2 forms given	w2
+what is the state of the weather in seattle	weather
+what's it doing outside right now	weather
+what about the weather in austin	weather
+when will it rain next	weather
+tell your hobbies	what_are_your_hobbies
+what do you do for fun	what_are_your_hobbies
+do ai have hobbies and if so what are yours	what_are_your_hobbies
+what kind of hobbies are you interested in	what_are_your_hobbies
+what subjects do you like	what_can_i_ask_you
+can you tell me the subjects you know best	what_can_i_ask_you
+what types of things can i ask the ai	what_can_i_ask_you
+what can you do for me	what_can_i_ask_you
+what name should i use for you	what_is_your_name
+what do you want me to refer to you as	what_is_your_name
+what name should i use to call for you	what_is_your_name
+do you have a name i can use	what_is_your_name
+what is this song called	what_song
+i like this song who is it by	what_song
+what tune is this	what_song
+what song is this	what_song
+where did you come from	where_are_you_from
+what area did you come from	where_are_you_from
+where's home for you	where_are_you_from
+were you made here	where_are_you_from
+switch to whisper please	whisper_mode
+could you please get out of whisper mode	whisper_mode
+turn to whisper mode	whisper_mode
+i decide to switch out of whisper mode	whisper_mode
+are you here to serve me	who_do_you_work_for
+would you say that you know who your boss is	who_do_you_work_for
+who controls you	who_do_you_work_for
+tell me who is your boss	who_do_you_work_for
+tell me the company that produces you and similar machines	who_made_you
+who assembled you	who_made_you
+what company designed you	who_made_you
+who were you made by	who_made_you
+do that	yes
+absolutely	yes
+i know that the statement is true	yes
+thats right	yes

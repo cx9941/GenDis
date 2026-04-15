@@ -1,0 +1,21 @@
+# conda install -c nvidia cuda-nvcc
+# pip3 install torch torchvision torchaudio 
+# pip install flash-attn --no-build-isolation
+# export CUDA_HOME=/root/miniconda3/envs/py312
+
+accelerate
+transformers==4.53.1
+trl==0.10.1
+deepspeed==0.16.3
+modelscope
+numpy
+scikit-learn
+scipy
+tqdm
+wandb
+peft
+bitsandbytes
+pytorch_ood
+pot
+openai
+langchain_openai
