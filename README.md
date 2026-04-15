@@ -103,10 +103,9 @@ If you find our work is useful for your research, please consider citing:
 @inproceedings{chen2026gendis,
 title={GenDis: Generative-Discriminative Dual-View Co-Training for Generalized Category Discovery},
 author={Xi Chen and Chuan Qin and Ziqi Wang and Shasha Hu and Chao Wang and Hengshu Zhu and Hui Xiong},
-booktitle={The 64th Annual Meeting of the Association for Computational Linguistics (ACL)},
+booktitle={The 64th Annual Meeting of the Association for Computational Linguistics},
 year={2026},
-address={San Diego, California},
-url={https://github.com/cx9941/GenDis}
+address={San Diego, California}
 }
 ```
 
